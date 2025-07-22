@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "identity_1",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "One week after a 6-day bout of watery febrile diarrhea, an 85-year-old pseudophakic White woman, followed up for a relapsed multiple myeloma, presented with sudden unilateral vision loss (20/20000). Severe panuveitis with a massive fibrino-hemorrhagic cyclitic membrane (A) extending to the capsular bag (B) was documented. The results of blood cultures, brain magnetic resonance imaging, whole-body computed tomography scan, and transthoracic echocardiogram were negative. Massive inflammation was removed by cleaning fibrin in the sulcus (C) and sticky retrolental abscess (D). Complete healing occurred without subsequent complications: vision improved until 3 months and then remained constant (20/32, Jaeger 1) <|vision_start|>ophthalmology 2024\\figure\\ophthalmology001.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Salmonella Enteritidis Endogenous Endophthalmitis with Abscess of Capsular Bag"
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An otherwise healthy 9-year-old boy presented with irritation and tearing of the left eye for 6 months. There was no family history of asimilar disorder, and the patient had no medical history of any ocular surgery or trauma. Slit-lamp examination showed a single black hairlocated in the palpebral conjunctiva of the upper lid (A). The lesion, including the hair and a tarsal plate tissue, was completely removed.Histopathologic examination showed posterior ectopic cilia (B and C). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology002.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "A Child with Posterior Ectopic Cilia"
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 6-year-old girl presented with a slowly growing painless swelling on the left upper eyelid margin since birth. Slit-lamp examinationrevealed a fleshy nodule with an umbilicated central depression, and (A) there was a protruded hair tuft composed of approximately 10 hairsfrom the nodule. The patient’s parents said that they had cut the hairs many times, but the hair tuft would recur soon after removal. Thenodule was completely removed <|vision_start|>ophthalmology 2024\\figure\\ophthalmology003.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "A Chinese Patient with Eyelid Trichofolliculoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 3-month-old girl presented with a whitish opacity in her right eye (OD). Examination revealed an abnormal iris morphology OD. Shehad a posterior embryotoxon (PE; A, black arrow), along with peripheral iris atrophy and holes (A, white arrow). On ultrasound biomicroscopy, multiple loculated cysts could be observed OD (B). Her left eye had a grossly normal iris morphology (C), although ongonioscopy a well-defined PE (D, black arrows), with high iris processes were observed (D, white arrowhead). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology004.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "An Iris Cyst as a Presenting Feature of Axenfeld-Rieger Malformation"
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 83-year-old woman presented with 2 months of progressive painful vision loss of the right eye. She had a previous World HealthOrganization (WHO) grade 1 right sphenoid wing meningioma, status postsurgical resection 2 years prior. Examination revealed a largeorbital tumor and a nonformed, inferolaterally displaced globe (A). Imaging revealed a 7.5 cm  3.8 cm  4.2 cm intraorbital mass withintracranial extension along the temporal lobe and cavernous sinus (B). A right cranio-orbital craniotomy, orbital exenteration, and resectionof the anterior/middle fossa tumor was performed (C). Histology revealed a WHO grade 3, anaplastic meningioma with frequent mitoticactivity (D, circled). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology005.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Anaplastic Meningioma of the Orbi"
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 20-year-old woman presented with a 3-year history of progressive proptosis of the right eye (A). Her father had a history of multipleosteomas. Congenital hypertrophy of the retinal pigment epithelial was not found on retinal examination, except for retinal folds. Multiplewell-circumscribed masses of high radiodensity (B-D), and multiple unerupted supernumerary teeth (C-D) were observed on computedtomography. The osteomas of the right ethmoidal sinus wereremoved due to the threat of the intraorbital structure. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology006.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Atypical Gardner’s Syndrome with Proptosis as the Primary Sympt"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 34-year-old man presented with a lesion that progressively enlarged for 5 years. Examination revealed a reddish right upper eyelidmargin mass that was tender to palpation (A, B). Visual acuity was 20/25 in both eyes, and the temporal visual field was limited on the right.Excisional biopsy was performed, and histopathology revealed ribbons of epithelial cells and adipose tissue amidst a background (C, D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology007.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Atypical Location of Pleomorphic Adenoma Involving the Eyelid Margin"
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 88-year-old woman with carcinomatosis and leukemoid reaction presented with a rare case of \"taches noir de la sclerotique.\" Recentstudies have challenged the belief that this phenomenon is strictly postmortem and suggest an association with prolonged eye exposure. Thedistinctive triangular pattern appeared across the sclera hours before the patient’s demise (A, B), suggesting that blinking cessation due toterminal disease may have contributed to this manifestation, in line with recent research. Lubricating eye care was administered, but sadly,the patient passed away. This unconventional timeline emphasizes the need for increased clinical awareness and further exploration of thepathophysiology of \"tache noir de la sclerotique.\" <|vision_start|>ophthalmology 2024\\figure\\ophthalmology008.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Before the Final Curtain: Unraveling “Tache Noire De La Sclerotique"
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 3-month-old girl with mild brachycephaly and a broad nasal bridge was referred for cataract surgery. She had hearing loss in her leftear, an atrial septal defect, and a pulmonary venous anomaly. Initial examination showed blink-to-light vision without nystagmus orstrabismus. Examination under anesthesia found bilateral cataracts with posterior lentiglobus (A, B, C). Infusion flushed the cataract outintraoperatively (D). Genetic testing showed a heterozygous variant (c.799_802del) in USP9X, on the X-chromosome. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology009.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Cataracts and Posterior Lentiglobus in USP9X Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_10",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 28-year-old Indian woman on oral Imatinib 400 mg once a day, presented withcomplaints of decreased vision in both eyes for 1 week. Her visual acuity was 20/160 in both eyes. A-B, Retinal evaluation revealedbilateral tortuous, dilated retinal veins, and multifocal, symmetrical, retinal infiltrates ranging from 1 to 8-disc diameters. C, Swept sourceOCT passing through the lesions showed full-thickness homogenous hyperreflectivity of the retina, subretinal hyperreflectivity withthickened external limiting membrane, and inner retinal hyperreflectivity (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology010.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Massive Retinal Infiltrates: Sign of Blast Crisis in Chronic Myeloid Leukemia"
+      }
+    ]
+  },
+  {
+    "id": "identity_11",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 29-year-old woman presented with sudden onset of headache and paralysis of the left side. Magnetic resonance imaging showed as picture (A, B). Right fundus examination revealed grape-like hemorrhagic clusters (C), which had been observed in this patient since age 9. Fundus fluorescein angiography showed plasmaeerythrocyticseparation in some aneurysms (D). Cavernous malformations are congenital vascular anomalies found in the central nervous system or inthe retina. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology011.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Cavernous Hemangioma of the Retina and Brain"
+      }
+    ]
+  },
+  {
+    "id": "identity_12",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 56-year-old White woman with history of retroperitoneal mucinous cystadenocarcinoma presented with right eye (OD) vision loss for2 weeks. Upon examination, visual acuity was 20/80 OD and 20/25 left eye (OS). Fundoscopic examination revealed a large amelanoticchoroidal mass superior to disc OD measuring 12 mm in base and 3.3 mm in thickness and a smaller superonasal choroidal mass(arrowhead) (A, B). There were 2 small choroidal tumors OS (arrowheads) (C, D). Positron emission tomography scan revealed metastaticdisease to the lungs and bones, confirmed on bone marrow aspirate by clusters of large epithelioid cells with irregular nuclei, inconspicuousnucleoli, and moderate amounts of cytoplasm containing mucin on Periodic acid-Schiff stain (E, F). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology012.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Choroid Metastasis of Retroperitoneal Mucinous Cystadenocarcinoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_13",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 56-year-old woman presented with a 6-month history of painless redness in her left eye. Her vision was 20/25 with intraocularpressure of 15.7 mmHg, and without a history of trauma. Anterior segment with medical mydriasis showed dilated corkscrew episcleral andconjunctival vessels (A). Ultrawide-field OCT and angiography (BMizar, TowardPi Medical Technology) revealed a normal neuroretina,dilated and tortuous retinal veins, and corkscrew choroidal vessels resulting in an abnormal choroidal thickness map (B, C). Computedtomography confirmed a dilated superior ophthalmic vein (arrow) and thickened medial rectus (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology013.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Choroidal Vascular Alterations in Spontaneous Carotid-Cavernous Fistula"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A, Examination revealed peripheral amelanotic vascular lesion with a largerretrolenticular portion. B, Ultrasound demonstrated a homogenous mass arising from the ciliary body (CB). The patient underwentexcisional biopsy through a scleral tunnel incision. C, Pathology showed a low-grade neoplasm with plump epithelioid cells. Immunohistochemistry showed diffuse expression of HMB45 immunostain (D) and heterogeneous smooth muscle actin (SMA), while beingnegative for SOX10 and S100. On RNA sequencing PRCC-TFE3 fusion was detected. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology014.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ciliary Body Perivascular Epithelioid Cell Tumor"
+      }
+    ]
+  },
+  {
+    "id": "identity_15",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 13-year-old Asian boy had a fast-growing solid mass on his right lower palpebral conjunctiva and medial canthus for 1 month (A).Magnetic resonance imaging revealed 2 masses in the medial and inferior orbit. Histopathology of the conjunctival tumor showed ovoid andspindled cells with hyperchromatic nuclei and abundant eosinophilic cytoplasm, arranged in a fascicular pattern within hyalinized stroma(arrowheads). Some exhibited a pseudovascular pattern (B, arrows). Immunohistochemical staining results were positive for desman (C)and MyoD1 (D). Molecular analysis revealed an absence of the PAX3/FOXO1 fusion gene. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology015.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Conjunctival Spindle Cell/Sclerosing Rhabdomyosarcoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_16",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 34-year-old goldsmith, with no comorbidity, presented with complaints of foreign body sensation and blurred vision in both eyes(more blurred in the right eye than the left eye) after sustaining an injury while working. Best corrected visual acuity was 6/18 in the righteye and 6/9 in the left eye. On examination, multiple gold foreign body particles were observed embedded in the cornea of both eyes (A,right eye; BeC, right and left slit photo, respectively). The corneal epithelium was intact with few punctate staining. Anterior-segment OCTrevealed hyperreflectivity in the epithelium and anterior stromal layer (D, right eye [upper panel] and left eye [lower panel]).  the patient was managed conservatively with topical prednisolone acetate 1% four times daily (QID) and lubricatingeyedrops (carboxymethylycellulose 0.5% QID). The patient was symptomatically better on follow-up. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology016.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Corneal Gold Foreign Body: A Rare Occupational Injury"
+      }
+    ]
+  },
+  {
+    "id": "identity_17",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 91-year-old woman with neovascular age-related macular degeneration presented with worsening right eye redness and irritation 4months after implantation of a ranibizumab port delivery system. Corneoscleral thinning and conjunctival injection (A, green star) wasnoted adjacent to the implant (A, blue arrowhead). Laboratory workup showed positive perinuclear antineutrophil cytoplasmic antibodieswith negative workup for other causes of vasculitis. The patient was administered oral and topical steroids with improvement inconjunctival injection, but (B) the corneoscleral and conjunctival thinning progressed, resulting in erosion of the implant (C, white arrow)and subsequent removal. (D) At 3 months postoperatively, the corneoscleral thinning remained stable after discontinuation of oral steroids <|vision_start|>ophthalmology 2024\\figure\\ophthalmology017.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Corneoscleral Melt After Implantation of a Ranibizumab Port Delivery System"
+      }
+    ]
+  },
+  {
+    "id": "identity_18",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 21-month-old with Moebius syndrome presented with parental concern of increased right eye rubbing. The eyes had symmetricmoderate conjunctival injection, with 6-8 mm lagophthalmos bilaterally. Examination under anesthesia revealed a soft eye with shallowanterior chamber, and a 5  4 mm, minimally opaque cystic protuberance in the right nasal cornea that was subtlety Seidel-positive (A, B).Intraoperative OCT demonstrated large cystic fluid cavities throughout the effected corneal stroma, with communication to the anteriorchamber (C). A therapeutic penetrating keratoplasty was performed, and Gram stain of the corneal button as figure (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology018.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Cystic Focal Ectasia Due to Moraxella Keratitis Identified in Formalin-Fixed Tissue"
+      }
+    ]
+  },
+  {
+    "id": "identity_19",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 6-year-old girl presented (A) with congenital unilateral slate-grey hyperpigmentation of the eyelids, cheek, sclera, and (B) she had abrown, macular periumbilical dermal nevus. She had an intracorneal, brown, carpet-like lesion within the inferonasal corneal stroma,sparing the pupillary area. Her vision and intraocular pressure were within normal limits. Dendrite-like pigmentation fanned out intrastromally (C) within posterior stroma as on anterior-segment OCT (D), adjacent to scleral pigmentation. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology019.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Dendritic Corneal Stromal Pigmentation: A Spillover of Nevus of Ota?"
+      }
+    ]
+  },
+  {
+    "id": "identity_20",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 61-year-old man with a history of heritable pulmonary hypertension (þBNPR2) was hospitalized Thepatient developed acute, bilateral “red eye” without visual symptoms, visual acuity of 20/20, normal intraocular pressures, and symmetrically reactive pupils. Examination demonstrated bilateral, dilated circumferential conjunctival vasculature surrounding the limbus withtemporal extension (A) and relative nasal sparing (B). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology020.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Dilated Conjunctival Vasculature in a Patient Up-Titrating Treprostinil Therapy"
+      }
+    ]
+  },
+  {
+    "id": "identity_21",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 55-year-old asymptomatic woman was found to have bilateral abnormalities of the optic nerve during an ophthalmic examination.Ocular examination revealed visual acuity of 20/20 in both eyes with normal anterior segment. Fundus examination showed grayish-whiteglial tissue covering the optic nerve (A) as confirmed by infrared image (B) from OCT. Cross-sectional OCT image (C) exhibitedhyperreflective membrane overlying the optic disc, and adhesions to adjacent optic papilla structure (white arrow). The corresponding OCTangiography B-scan with flow overlay (D) showed hyperreflective tissue without any flow signal, contrasting with the optic disc’s normalblood flow signal <|vision_start|>ophthalmology 2024\\figure\\ophthalmology021.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Distinguishing Glial Tissue from Optic Disc in Bergmeister’s Papilla Using OCT Angiography"
+      }
+    ]
+  },
+  {
+    "id": "identity_22",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old woman with lung cancer treated with crizotinib was referred for subconjunctival masses in her right eye 3 years later.Examination revealed 2 whitish necrotic areas superonasally and superotemporally with localized injection and edema (A and B). After acomprehensive work-up excluding infection, autoimmunity, and metastasis, necrotising scleritis was diagnosed. Topical tacrolimus,tobramycin/dexamethasone, and lubrication significantly halted scleral thinning and promoted recovery (C and D). Subsequently,contralateral iridocyclitis occurred, which regressed after topical tacrolimus, steroid, and decongestive eyedrops. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology022.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Double Whammy: Crizotinib-Associated Necrotizing Scleritis"
+      }
+    ]
+  },
+  {
+    "id": "identity_23",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 78-year-old man with history of esophageal adenocarcinoma, in remission 9 months after resection, chemotherapy, and radiation,presented with a peripapillary choroidal lesion with leopard-spot pigmentation and disc edema (A). Extraocular extension was demonstratedon B-scan and magnetic resonance imaging (B, C). A transconjunctival orbitotomy approach was performed rather than choroidal fine-needlebiopsy to maximize tissue yield. Histopathology revealed expression of keratin (D), cytokeratin 20, caudal-related homeobox transcriptionfactor 2 (CDX-2), and cytokeratin 7. Positron emission tomography scan showed noprimary tumor recurrence or additional metastases <|vision_start|>ophthalmology 2024\\figure\\ophthalmology023.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Esophageal Adenocarcinoma Metastatic to the Choroid with Extrascleral Extension"
+      }
+    ]
+  },
+  {
+    "id": "identity_24",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 13-year-old girl was referred for suspicion of glaucoma. Examination revealed extensive horizontal cupping of the right optic disc andmild hypoplasia of both optic nerves (A) with otherwise normal color vision, intraocular pressures, and neuro-ophthalmic examination.Humphrey visual fields showed bilateral superotemporal defects respecting the midline (B). OCT confirmed optic nerve hypoplasia, moresevere in the left eye, with thinning of the nasal and temporal retinal nerve fiber layer (RNFL) bilaterally (C). Magnetic resonance imagingshowed chiasmal hypoplasia, more severe on the left side (red arrow), and an absent septum pellucidum (asterisk) (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology024.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Extensive Horizontal Optic Disc Cupping as a Sign of Chiasmal Hypoplasia"
+      }
+    ]
+  },
+  {
+    "id": "identity_25",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "On examination, a 2 *2-mm pink peduncular mass was observed on the left lower lid (A, asterisk). Nohistory of papilloma, human papillomavirus infection vaccination (HPV), or eye injury was reported. The patient declined treatment forpapilloma, including oral medications. She subsequently obtained the HPV 9-valent vaccine on her own accord, and after 2 doses ofvaccine, (B) the pink mass resolved within 2 months. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology025.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Eyelid Papilloma"
+      }
+    ]
+  },
+  {
+    "id": "identity_26",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 32-year-old woman presented to the emergency department with a severe reaction to eyelash extensions. On ophthalmic examination,vision was 20/20. Slit-lamp examination of the posterior segment revealed an incidental finding of a yellow-white, elevated, round lesioninferior to the macula (A, arrow). Fundus autofluorescence imaging showed an area of speckled hypo-autofluorescence (B, arrow). OCTdemonstrated that the lesion was confined to the sclera (C, arrow), with thinning of the overlying choroid (C, arrowhead). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology026.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Focal Scleral Nodule"
+      }
+    ]
+  },
+  {
+    "id": "identity_27",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 79-year-old woman presented with 5 weeks of newly onset headache, cutaneous allodynia, transient diplopia, and an unintended9-pound weight loss. C-reactive protein (CRP) was 32 mg/l (< 10 mg/l). A left-sided temporal artery biopsy was negative for GCA. 2-[18F]FDG PET/CT showed inflammation solely in the vertebral arteries (A, axial; B, sagittal, white arrows) <|vision_start|>ophthalmology 2024\\figure\\ophthalmology027.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Giant Cell Arteritis Confirmed by 2-[18F]FDG PET/CT, Missed on Biopsy"
+      }
+    ]
+  },
+  {
+    "id": "identity_28",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 4-year-old girl presented with 2 years of painless, intermittent left eyelid swelling with 5 days of acute worsening associated withbluish-gray skin discoloration (A). Orbital magnetic resonance imaging demonstrated a well-circumscribed, thin-walled, rim-enhancingcystic lesion arising from the left lacrimal gland (B). She underwent complete surgical excision (C). Pathology revealed a benignepithelial cyst (D, red arrow) and adjacent normal lacrimal gland tissue (D, blue arrow). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology028.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Giant Dacryops in a 4-year-old Child"
+      }
+    ]
+  },
+  {
+    "id": "identity_29",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 49-year-old man noted decreased visual acuity to 20/40 in the right eye because of central serous chorioretinopathy. His medicalhistory was unremarkable, and he took no medications. He worked nights for several years. High-axial resolution OCT (HighRes-OCTprototype) (A) revealed subretinal fluid and hyperreflective fibrin surrounding a hyporeflective lucency communicating with a pigmentepithelial detachment through a focal defect in an area of increased choroidal thickness. This defect corresponded to a hypopigmented spoton confocal color photography (B), which appeared hypoautofluorescent on fundus autofluorescence (C), and showed active hyperfluorescent leakage on fluorescein angiography (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology029.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Hyporeflective Subretinal Lucency in Central Serous Chorioretinopathy"
+      }
+    ]
+  },
+  {
+    "id": "identity_30",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 7-month-old girl with delayed milestones was referred. She lacked visual fixation. Ultrasonography confirmed hyperechoic intraocular tumors in her right (A, arrowhead)and left (B, arrowheads) eyes. Magnetic resonance imaging revealed bilateral multifocal RBs (C, arrowheads), and a large (46  37  41 mm)intrasellar/suprasellar mass (C and D, asterisk, arrows), compressing the lateral and third ventricles (D, dotted arrows), extending into thecavernous sinus (C and D, arrows) "
+      },
+      {
+        "from": "assistant",
+        "value": "Incidentally Detected Giant Sellar Mass in an Infant with Delayed Milestones"
+      }
+    ]
+  },
+  {
+    "id": "identity_31",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 42-year-old man with multisystem smooth muscle dysfunction syndrome associated with a heterozygous ACTA2 gene mutation[c.536G>A, p.(Arg179His)] presented for routine ophthalmic examination. He had a history of prune belly syndrome, patent ductusarteriosus, aortic dissection, and abdominal aortic aneurysm. Best-corrected visual acuity was 20/20 in each eye. Anterior segment examination revealed mydriasis with scalloped pupillary margins, and persistent pupillary membranes extending from iris collarettes (A).Fundus examination and near-infrared imaging revealed significant retinal arteriolar corkscrew tortuosity both in the posterior pole andperiphery (B). OCT (C) and OCT angiography (D) demonstrated corkscrew vessel elongation into the outer nuclear layer. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology031.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Iris and Retinal Findings in Multisystemic Smooth Muscle Dysfunction Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_32",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 74-year-old woman presented with painless blurred vision in her left eye. Visualacuity was 20/40 with intraocular pressure of 27 mmHg. Examination revealed a hemorrhagic whitish iris mass (A, B). Iris biopsydemonstrated a monoclonal plasma cell infiltration, with positive immunoreactivity for kappa light chains (C). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology032.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Iris Plasmacytoma in Multiple Myeloma"
+      }
+    ]
+  },
+  {
+    "id": "identity_33",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 7-year-old boy presented with left orbital proptosis and globe dystopia (A); visual acuity and ophthalmic examination were normal.Orbital magnetic resonance imaging showed a lobular, well-defined lacrimal gland mass (B) without hypercellular features on an apparentdiffusion coefficient map (C). Surgery was conducted with a primary diagnosis of lacrimal gland pleomorphic adenoma, revealing a lobulartumor with a gelatin-like texture and no capsule. A pathological examination revealed a tumor with cribriform (D, blue arrow) andcanalicular-like (D, black arrow) characteristics, composed of inner ductal and outer myoepithelial cells. On immunostains, cytokeratin 7highlighted all the cells (E, left), and calponin highlighted myoepithelial components (E, right). fluorescent in situ hybridization resultsshowe <|vision_start|>ophthalmology 2024\\figure\\ophthalmology033.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "fluorescent in situ hybridization results showed rearrangements of an MYB gene in 60% of the cells, confirming the rare diagnosis of lacrimal gland adenoid cystic carcinoma. Treatment included radiation therapy at the hospital’s pediatric oncology clinic. "
+      }
+    ]
+  },
+  {
+    "id": "identity_34",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 18-year-old man presented with gradual reduction of vision in his right eye for 3 months to 20/40 after sustaining trauma whileworking with a hammer and chisel. He underwent pars plana vitrectomy and foreign body removal.  Rust-colored cornea (A) due to intrastromal and subendothelial brownish deposition (A, slit section) was noted. Anterior-segmentOCT showed hyperreflectivity within all corneal layers (B). Confocal imaging showed iron deposition in the basal layer of the epithelium(C, upper), anterior (C, middle), and posterior stroma (C, lower), and siderosomes as hyperreflective structures inside keratocytes <|vision_start|>ophthalmology 2024\\figure\\ophthalmology034.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Multimodal Imaging of Corneal Manifestation of Siderosis Bulbi"
+      }
+    ]
+  },
+  {
+    "id": "identity_35",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A, The child exhibitedsevere proptosis, severe chemosis, exposure keratopathy, corneal ulcers, limited extraocular movements, and decreased visual acuity in botheyes. B, Cerebrospinal fluid analysis showed a cluster of neuroblastoma cells. The child underwent transconjunctival orbital decompressionsurgery to alleviate proptosis and relieve pressure on the optic nerve. Additionally, intrathecal chemotherapy was administered to targetcentral nervous system involvement. C, The child’s response to treatment was remarkable, as the proptosis subsided, and extraocularmovements returned to normal. Although corneal scarring remains (D), there has been an improvement in visual acuity <|vision_start|>ophthalmology 2024\\figure\\ophthalmology035.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Neglected Metastatic Neuroblastoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_36",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 70-year-old man presented with decreased vision in the left eye. The examination revealed diffuse blue changes to the left sclera,patches of hyperpigmentation, and large conjunctival vessels in the nasal quadrant (A). Additionally, a pigmented intraocular mass abuttingthe lens (B) was seen nasally. Ultrasound biomicroscopy and B-scan ultrasonography (C) confirmed a ciliary body mass. The blue scleralpigmentation was present since birth; he had no other skin findings. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology036.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ocular Melanocytosis with Uveal Melanoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_37",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "After blunt trauma, a 24-year-old man presented with an inferior cyclodialysis cleft (A) and hypotony. Indocyanine green angiographyon FLEX Spectralis revealed dilated, irregular, blind-tipped channels with variegated contrast (B, arrow), akin tolymphatics reported on angiographic imaging after trabeculectomy. This was contrary to the traditional aqueous outflow channels that are seen as acutely branching, more uniform, and narrower in width (C, arrow). Subconjunctival lymphatic trypan blue-assisted staining in the cleftregion has previously shown lymphatic over-drain after cyclodialysis . "
+      },
+      {
+        "from": "assistant",
+        "value": "Opening of Lymphatic Outflow after Traumatic Cyclodialysis"
+      }
+    ]
+  },
+  {
+    "id": "identity_38",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 56-year-old woman presented with count fingers vision and significantly elevated intraocularpressures bilaterally. Examination revealed bilateral angle closure due to neovascular peripheral anterior synechiae (A), advanced optic disccupping, severe oxalate retinopathy, and attenuated, crystal-filled vessels (B). OCT of the macula showed crystal deposition in every retinallayer and hyperreflectivity and irregularity of the retinal pigment epithelium with overlying loss of the ellipsoid zone (C). Fluoresceinangiography demonstrated widespread vascular leakage (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology038.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ophthalmic Sequelae of Late-Stage Primary Hyperoxaluria Type 1"
+      }
+    ]
+  },
+  {
+    "id": "identity_39",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 21-year-old woman presented to the emergency department with 3 days of worsening periorbital swelling (A, B). She had recentlycompleted a Tik-Tok challenge in which she induced air reflux through the nasolacrimal system by forcefully blowing against a pluggednose. Computed tomography scans (C, coronal; D, sagittal) demonstrated bilateral subcutaneous and orbital emphysema with no orbitalfractures. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology039.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Orbital Emphysema Caused by a Tik-Tok Challenge"
+      }
+    ]
+  },
+  {
+    "id": "identity_40",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 67-year-old White man was referred for corneal opacities observed during routine examination. He was asymptomatic with unremarkable medical and family history. Best-corrected photopic visual acuity was 20/20 bilaterally. Slit-lamp examination of both eyesshowed arcuate paracentral subepithelial crystals extending centripetally from the midperipheral cornea overlying an arc of dense paracentral haze with well-demarcated margins sparing the visual axis (A and B). Arcus lipoides was also noted. Anterior segment-OCTdemonstrated focal subepithelial hyperreflectivity on both sides of the line scans (C and D). Subepithelial crystalline deposits were observedby in vivo confocal microscopy (E and F). Polymerase chain reaction identified heterozygous N102S mutation in the UBIAD1 gene. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology040.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Peripheral Center Sparing Presentation of Schnyder Corneal Dystrophy"
+      }
+    ]
+  },
+  {
+    "id": "identity_41",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 81-year-old woman reported double vision on upgaze. Ocular history was notable for bilateral cataract extraction. She had limitationof elevation of the right eye with ptosis. Slit-lamp examination revealed a bluish lesion under the right upper eyelid (A). Magnetic resonanceimaging demonstrated a slightly dark T2 hyperintense lesion molded over the eyeball (B, arrow). Intraoperatively, the lesion was found tobe a stretchable fluid-filled cyst (C, D).The pathological examination is as shown in the figure (E). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology041.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Post-Cataract Surgery Orbital Conjunctival Inclusion Cyst"
+      }
+    ]
+  },
+  {
+    "id": "identity_42",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 24-year-old man presented 15 days after blunt trauma to his left eye (OS) with a tennis ball. Intraocular pressure (IOP) was 28 mmHgOS, with sphincter tears (A, arrow) along inferior pupillary margin. Gonioscopy revealed detachment of the scleral spur (B, arrow) from itsroot at the scleral roll, with posterior iris displacement. Anterior-segment OCT revealed relative deepening of the inferior angle (C, arrow)versus superior angle. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology042.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Posttraumatic Scleral Spur Detachment from Scleral Roll: The Sclerodialysis?"
+      }
+    ]
+  },
+  {
+    "id": "identity_43",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old man presented with visually significant ptosis of the bilateral upper eyelids. Levator function was normal with noevidence of lagophthalmos. Lid eversion demonstrated bilateral soft, nontender, yellow-white masses on the upper palpebral conjunctiva(A-B). The remainder of the ocular examination was unremarkable. Intraoperative biopsies of both eyelids revealed the amorphousextracellular, eosinophilic deposition seen in amyloid, and confirmed with Congo red (C) and crystal violet staining (D). Systemicinvolvement was ruled out with a normal serum-free light chain ratio with negative serum electrophoresis. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology043.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Primary Localized Conjunctival Amyloidosis: A Bilateral Presentation"
+      }
+    ]
+  },
+  {
+    "id": "identity_44",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 56-year-old woman presented with 14-month history of lower-lid mass in her left eye. On examination, a salmon-colored diffuselesion was identified in the inferior fornix (A-B). Histopathological studies revealed diffuse acellular, eosinophilic material below theconjunctival epithelium (C) staining positively with Congo red (D) and showing apple-green birefringence under polarized light. Immunohistochemistry evidenced positivity for kappa and lambda light chains (E-F). Systemic evaluation and fine needle aspiration cytology ofabdominal subcutaneous fat were performed with normal findings; systemic amyloidosis was excluded. Surgical excision was performed, and no recurrence was observed after 5 years of follow-up <|vision_start|>ophthalmology 2024\\figure\\ophthalmology044.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Primary Localized Conjunctival Amyloidosis"
+      }
+    ]
+  },
+  {
+    "id": "identity_45",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 69-year-old man presented with a membrane over the bulbar conjunctiva in his right eye (OD), encroaching cornea from the temporalside, and freely movable over the conjunctival and corneal surface (A). Extraocular movements were free. The patient had no history ofpain, foreign body sensation, lacrimation, chronic illness, prior hospitalization, trauma, adverse drug reaction, or chemical injury. TheSchirmer’s test showed normal tear film production. The patient had cataracts in both eyes, otherwise, anterior segment and fundus findingswere normal. Uncorrected visual acuity was 6/36 OD and 6/18 in the left eye (OS). Intraocular pressure was 16 mmHg OD and 15 mmHgOS, respectively. Image of OD with membrane in (B) primary gaze, (C) down and out position, and (D) up and inwards <|vision_start|>ophthalmology 2024\\figure\\ophthalmology045.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Pseudonictitating Membrane"
+      }
+    ]
+  },
+  {
+    "id": "identity_46",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A healthy 52-year-old man presented with a painless, enlarging, right lateral orbital nodule of 1-year duration (A, arrow). Clinicalexamination revealed a 2.3-cm firm immobile lateral orbital rim mass. Computed tomography displayed an expansile and osteolyticneoplasm of the zygoma with orbital and extraorbital extension (B). Lateral orbitotomy exposed a porous neoplasm of the anteriorzygomatic face (C). The exophytic component was resected, and histopathological examination demonstrated multiple, dilated, blood-filledcavities between bony trabeculae (D). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology046.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Rare Intraosseous Cavernous Hemangioma of the Orbit"
+      }
+    ]
+  },
+  {
+    "id": "identity_47",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 59-year-old woman presented with an elevated dense white corneal plaque (A). Anterior segment-OCT demonstrates confinement tothe corneal epithelium (B). Histologic evaluation demonstrated acanthosis, dyskeratosis, nuclear atypia, and mitotic figures above the baseof the epithelium indicative of moderate to severe keratinizing dysplasia of squamous epithelium. (C). Over 6 years of follow up, thecorneal epithelium has demonstrated an occasional small recurrence. Despite the suspected dysplasia, progression to aggressive ocularsurface squamous neoplasia was prevented by the patient’s innate immune system. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology047.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Remission of Ocular Surface Squamous Neoplasia"
+      }
+    ]
+  },
+  {
+    "id": "identity_48",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 35-year-old man presented with reduced vision in the right eye to 20/100 after being infected with Klebsiella pneumonia 2 weekspreviously. The right fundus showed one circular and several punctate lesions (A). Both types of lesions were hypoautofluorescent (B,arrow and arrowheads). Structural en face OCT showed a larger lesion area (C). The circular and punctate lesions showed atrophy of theretina (D, asterisks) and discontinuity in the retinal pigment epithelium layer with hyperreflective foci (E, arrow) and overlying vitritis onOCT. Treatment with systemic antimicrobials and glucocorticoids abated the retinitis by 1 month, but his vision remained 20/100. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology048.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinal Atrophy and Retinitis after Klebsiella Infection"
+      }
+    ]
+  },
+  {
+    "id": "identity_49",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 33-year-old woman presented for evaluation with a history of craniopharyngioma, status postresection in childhood. Fundoscopicexamination showed bilateral optic nerve pallor (A) and Humphrey Visual Field 24-2 revealed a left homonymous hemianopia (B). Spectraldomain en-face OCT imaging demonstrated hemi-macular hyporeflectivity respecting the vertical mid-line (C). Structural B-scan as Figure D <|vision_start|>ophthalmology 2024\\figure\\ophthalmology049.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinal Pseudocysts in a Patient with Homonymous Hemianopia"
+      }
+    ]
+  },
+  {
+    "id": "identity_50",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 44-year-old woman presented with redness in the right eye for 4 weeks (A). Her visual acuity was 20/20 in both eyes. Intraocularpressure was 27/17 mmHg in the right and left eye, respectively. Incomitant esotropia attributed to right abducens palsy was also noted. Herfundus was normal, but a marked superficial vascular complex (SVC) dropout was found on OCT angiography (B). Digital subtractionangiography (C) revealed a right direct carotid-cavernous fistula (CCF) with venous drainage to the right inferior petrosal sinus, bilateralophthalmic veins (C, arrow), and cortical veins. The reduction of SVC reversed (D), with improvement of ocular hypertension and esotropia2 weeks after embolization of right CCF <|vision_start|>ophthalmology 2024\\figure\\ophthalmology050.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinal Vasculature Changes Herald the Presence of Carotid-Cavernous Fistula"
+      }
+    ]
+  },
+  {
+    "id": "identity_51",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old man presented with bilateral band keratopathy (A, anterior segment [AS] photography; B, AS-OCT) with no otherrelevant systemic or ocular findings. The patient was treated with topical ethylenediaminetetraacetic acid (EDTA) 2% twice daily bilaterally. The patient reported acute vision loss in his left eye 20 days later. He showed a severe descemetocele with surrounding stromalmelting and anterior chamber inflammatory response (C, AS photography; D, AS-OCT). His right eye showed no significant changes. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology051.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Severe Descemetocele after EDTA Chelation for Band Keratopathy"
+      }
+    ]
+  },
+  {
+    "id": "identity_52",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 40-day-old female infant presented with 2 weeks of poor feeding, melena, and rectal bleeding. Examination revealed bilateral severelipemia retinalis, characterized by bright white retinal vessels over a “salmon-colored” fundus (A, B). Triglyceride levels were extremelyelevated (437.05 mmol, reference range  1.12 mmol)(C). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology052.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Severe Lipemia Retinalis in an Infant with Autosomal Recessive Lipoprotein Lipase Deficiency"
+      }
+    ]
+  },
+  {
+    "id": "identity_53",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 2-month-old girl 。 A “tomato catsup” fundus (A) could be observed by RetCam III due todiffuse choroidal hemangioma (DCH). Intraocular pressure (IOP) was 14 mmHg. After using timolol maleate eye drops twice daily for 3months, the DCH shrunk in color fundus image (B). The IOP was 11 mmHg. The patient was advised to maintain treatment with b-blockersand a follow-up visit was recommended. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology053.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Shrinking Diffuse Choroidal Hemangioma after Topical Use of b-Blocker"
+      }
+    ]
+  },
+  {
+    "id": "identity_54",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 66-year-old man, diagnosed with phacolytic glaucoma, had visual acuity (VA) of light perception, iridescent opacities in the anteriorchamber (AC), dense cataract (A), and elevated intraocular pressure in the right eye. One week after cataract surgery, his VA was handmotion. Iridescent crystals were noted behind the intact posterior capsule in the vitreous. (B) Fundus examination showed \"snowflake\"opacities in the vitreous, obscuring the details of the retina. (C) Twelve weeks later, VA improved to 20/50 and the opacities in the vitreouswere noted to have decreased. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology054.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Snowflake Vitreous Opacities in Phacolytic Glaucoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_55",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 78-year-old man presented with blurry vision in the left eye and was found to have a hyphema (not pictured). Upon resolution of thehyphema, slit-lamp photography (A) demonstrated superficial, prominent vessels of the minor arterial circle at the iris collarette(wide arrow) and small flocculi at the pupillary margin (A, asterisk). Gonioscopy showed a wrinkled pigmented lesion in the inferior angle(B, narrow arrow). Anterior-segment OCT showed a hyperreflective lesion (white arrow) with acoustic shadowing in the inferiorangle, confirming the cystic nature of the lesion (C). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology055.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Spontaneous Hyphema from Dislocation of an Iris Pigment Epithelium Flocculus"
+      }
+    ]
+  },
+  {
+    "id": "identity_56",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 28-year-old woman presented to the ophthalmology department with a 3-year history of a tumor in her left eye. Examination revealedan isolated pink tumor in the conjunctiva with an associated large vessel (A). OCT angiography showed blood vessels in the shape of“coral” (B). After complete resection, pathological examination showed as figure(C). <|vision_start|>ophthalmology 2024\\figure\\ophthalmology056.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Squamous Cell Papilloma of the Conjunctiva"
+      }
+    ]
+  },
+  {
+    "id": "identity_57",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 6-year-old boy presented with a total retinal detachment (RD) in the left eye (A, B). The midperipheral and peripheral retina were mostly avascular. Immature vessels were confined to the posterior retina and preretinal new vesselsinduced a posterior retinal tear (C). He underwent pars plana vitrectomy with scleral buckling and silicone oil tamponade resulting insuccessful reattachment of the retina. After silicone oil removal (D), visual acuity was 1/10. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology057.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Surgical Management of a Neurofibromatosis Type 1 Associated Retinal Detachment"
+      }
+    ]
+  },
+  {
+    "id": "identity_58",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In the right eye, a temporally dragged macula and straightenedblood vessels in the temporal arcade were observed (A), contrasting with the healthier left eye (B). Temporal-superior-nasal-inferiortemporal curves show that peak locations of retinal nerve fiber layer at superior and inferior areas of the right eye (C) are much closerto those of the left eye (D), reflecting the narrowing of the angle between the major vessels <|vision_start|>ophthalmology 2024\\figure\\ophthalmology058.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Temporal-Superior-Nasal-Inferior-Temporal Curve in Retinopathy of Prematurity"
+      }
+    ]
+  },
+  {
+    "id": "identity_59",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 9-year-old girl presented with a circular popping fidget toy in her right eye. She reported getting the idea from social media. The fidgettoy was removed using jeweler’s forceps, with a second examiner holding her head still. Following the removal, fluorescein staining revealedmoderate diffuse punctate epithelial erosions, but no corneal abrasion. The patient’s family planned to communicate with the patient’steacher to ensure no other students attempted a similar act; (A) shows the toy in her eye; (B) depicts an examiner opening the eye, illustratingthe relative sizes of the toy and the eye <|vision_start|>ophthalmology 2024\\figure\\ophthalmology059.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "The Influence of Social Media: Fidget Toy Placed in Eye"
+      }
+    ]
+  },
+  {
+    "id": "identity_60",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old healthy woman presented with 2 recent painless episodes of vision loss lasting 20 seconds each in her right eye. Fundusexamination revealed right (A) greater than left optic disc edema without retinal ischemia. Neuro-imaging demonstrated a large occipitalmass (B) and severe torcula and bilateral transverse venous sinus compression without thrombosis (C). Osteolytic skull lesions (D) <|vision_start|>ophthalmology 2024\\figure\\ophthalmology060.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Transient Visual Obscurations: A Unique Presentation of Multiple Myeloma"
+      }
+    ]
+  },
+  {
+    "id": "identity_61",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 36-year-old woman underwent a multimodal imagingexamination. Autofluorescence (A) and indocyanine green angiography (B) were consistent with typical MEWDS features. Additionally, enface OCT image (at the level of the outer retina) (C) obtained from ultrawide-field swept-source OCT angiography revealed smallhyperreflective dots around the optic nerve and confluent hyperreflective spots disseminated at the midperipheral retina. The OCT B-scan(D) confirmed multiple hyperreflective dots (yellow arrows) that corresponded with the findings on the en face OCT. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology061.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ultrawide-field En face OCT of Multiple Evanescent White Dot Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_62",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 31-year-old man presented with left eye redness for 5 days, irritation, and sudden vision loss to finger counting. A, Examinationrevealed creamy white aqueous humor without hypopyon. B, Anterior-segment OCT showed homogenous hyperreflectivity. Despitenegative pathogen tests, he was diagnosed with diabetic ketoacidosis and severe hyperlipidemia (triglycerides 45.66 mmol/l, totalcholesterol 22.33 mmol/l, positive urinary ketones). Urgent insulin and lipid-lowering treatment cleared the lipid-laden aqueous humor in 3days, unveiling aqueous flare and peripheral lipemia retinalis. Disruption of the blood-aqueous barrier from iridocyclitis was hypothesized.The patient was administered dexamethasone eye drops. Visual acuity was restored to 20/20 within 1 week, which supported our hypothesis. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology062.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Unilateral Lipemic Aqueous"
+      }
+    ]
+  },
+  {
+    "id": "identity_63",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 45-day-old boy presented with 2 weeks of worsening right-sided facial swelling . The patient did notrespond to a 7-day course of intravenous clindamycin. Physical examination revealed periorbital and maxillary swelling without erythemaor induration (A). Magnetic resonance imaging revealed a 332ecm lobulated mass in the right inferior orbit with proptosis and partialencasement of the optic nerve (B). Given concerning features on imaging, biopsy was performed, showing tightly packed capillariesorganized into lobules and endothelial cells staining for glucose transporter 1 (GLUT-1) (C). Oral propranolol was initiated with significant improvement (D) <|vision_start|>ophthalmology 2024\\figure\\ophthalmology063.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Unusual Deep Infantile Hemangioma Presentation with Orbital Involvement"
+      }
+    ]
+  },
+  {
+    "id": "identity_64",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 52-year-old woman(A) with a diffuse stromal edema, extended peripheralanterior synechiae, and superior iris atrophy. The remaining peripheral tissues derived from 3 donors after standard keratoplasty weretrimmed to a piece of graft and used for endothelial keratoplasty. Six days after surgery (B), the trimmed graft was well adhered to theposterior surface of the recipient’s cornea with gaps among the pieces. C, Completely resolved corneal clarity (corrected distance visualacuity was 20/50) was observed, and (D) 9 months after surgery, anterior segment-OCT imaging showed that the gaps among the piecesdisappeared. <|vision_start|>ophthalmology 2024\\figure\\ophthalmology064.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Usage of the Remained Tissues after Keratoplasty for Endothelial Keratoplasty（ iridocorneal endothelial syndrome ）"
+      }
+    ]
+  },
+  {
+    "id": "identity_65",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 77-year-old male with history of hypertension and asthma presented with 3 months of progressive decline in vision in the left eye. He had no known ocular history. At presentation, best-corrected visual acuity was 20/100 OD and 20/50 OS. Intraocular pressures were normal bilaterally and pupils were equally reactive. Examination of the right eye was unremarkable except for moderate cataract. The left-eye slitlamp examination was remarkable for a shallow but quiet anterior chamber and moderate cataract. Dilated fundus examination of the left eye revealed shallow peripheral serous choroidal detachments, bullous inferior macula-involving retinal detachment with shifting fluid, and diffuse hyperpigmented lesions involving the macula and superior fundus that corresponded to areas of nodular retinal pigment epithelium thickening on optical coherence tomography (Figure 1). These hyperpigmented lesions were associated with hyperautofluorescence and blockage on fluorescein and indocyanine green angiography. No retinal breaks were seen on scleral depressed examination. Ultrasound biomicroscopy demonstrated 360° ciliochoroidal effusion. Axial length was 24.30 mm OD and 24.32 mm OS. The patient denied a history of known refractive error.\nResults of inflammatory laboratory tests were negative for antineutrophil cytoplasmic antibodies, rheumatoid factor, and Treponema pallidum antibodies. Chest radiography and magnetic resonance imaging of the brain and orbits with and without contrast showed no extraocular disease. Treatment with 60-mg prednisone was initiated for 1 week but did not result in any changes in examination findings. The patient had a negative systemic review of systems.\nWHAT WOULD YOU DO NEXT?\nA. Scleral buckle with cryotherapy \nB. Pars plana vitrectomy \nC. Intravitreal steroid trial \nD. Scleral windows surgery <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge001.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "A Case of a Bumpy Retina"
+      }
+    ]
+  },
+  {
+    "id": "identity_66",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 77-year-old woman presented to the ophthalmology department with a 5-year history of a painless neoplasm in her left eye. Her medical history included gastric antral ulcers and reflux esophagitis. She had no history of tumors and no family history of ocular disease. On initial examination, her visual acuity was 20/40 OD and 20/50 OS. Intraocular pressures were 17 mm Hg in the right eye and 20 mm Hg in the left eye as measured with noncontact tonometry. Pupils were round and reactive, without a relative afferent pupillary defect. Slitlamp examination showed an isolated papillary tumor on the limbal conjunctiva, with prominent conjunctival blood vessels extending to the tumor (Figure 1A). The findings of both the anterior segment and fundus examinations were normal. Optical coherence tomography angiography (OCTA) demonstrated blood vessels of the neoplasm in the shape of popcorn (Figure 1B) and blood vessels extending beneath the surface of sclera (lower right of Figure 1A).\nWHAT WOULD YOU DO NEXT?\nA. Observation and periodic monitoring \nB. Surgical excision with conjunctival autograft \nC. Surgical excision with topical mitomycin therapy \nD. Surgical excision with radiotherapy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge002.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "A Conjunctival Papillary Tumor in a 77-Year-Old Woman"
+      }
+    ]
+  },
+  {
+    "id": "identity_67",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 74-year-oldwomanwith a history of breast cancer, now in remission, presented for evaluation of a conjunctival lesion of the right eye. Per her history, the lesion was noted over 18 years in the past by her optometrist. She reported no noticeable growth or changes to the lesion but was sent for evaluation with ocular oncology. Visual acuity with correction was 20/40 in the right eye and 20/30 in the left eye. Intraocular pressure was 14 mmHg in the right eye and 16 mm Hg in the left eye. Anterior segment examination results were within normal limits for the left eye, and dilated fundus examination results for both eyes did not reveal concerning pathology. The conjunctiva of the right eye was notable for a small elevated pigmented lesion measuring approximately 2 × 2mm with sentinel vessels (Figure1A). Fundus photographs and autofluorescence (Figure 1B) as well as optical coherence tomography (OCT) were normal bilaterally. An anterior-segment OCT was performed and revealed a small elevated subepithelial lesion with shadowing vs possible scleral extension (Figure 1B).\nWHAT WOULD YOU DO NEXT?\nA. Surgical excision of lesion with cryotherapy \nB. High-resolution ultrasound \nC. Topical chemotherapy/ immunotherapy \nD. Plaque radiation therapy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge003.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "A Suspicious Pigmented Lesion of the Conjunctiva"
+      }
+    ]
+  },
+  {
+    "id": "identity_68",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An older patient with history of alcohol use disorder was admitted for altered mental status present since becoming incarcerated 11 days prior. The patient remained persistently delusional and psychotic despite treatment for alcohol withdrawal, including maintenance intravenous fluids, lorazepam, haloperidol, and intravenous thiamine on admission. The psychiatric service subsequently started valproic acid, 500 mg in the morning and 700 mg in the evening, and olanzapine, 5 mg in the morning and 10 mg in the evening. On hospital day 2, the patient remained afebrile but acutely developed bilateral periorbital edema. Results of metabolic laboratory tests and cell counts were remarkable for mild hypernatremia (sodium level, 152 mEq/L [reference range, 136-145 mEq/L]; to convert to mmol/L, multiply by 1) and leukocytosis (white blood cell count, 17000/mm3 [reference range, 4000-10 000/mm3]). Ophthalmology was consulted due to concern for bilateral orbital cellulitis.\nVisual acuity and extraocular movements could not be assessed due to noncompliance. There was no relative afferent pupillary defect, and intraocular pressures were 15 mm Hg OD and 16 mm Hg OS. The patient had diffuse facial edema with prominent bilateral periorbital and eyelid nonpitting edema, tense eyelid margins bilaterally, scant mucoid discharge, and conjunctivochalasis vs mild chemosis inferiorly bilaterally (Figure 1). No warmth, induration, purulence, wounds, or ecchymosis was noted. Dilated examination demonstrated normal posterior poles, but poor cooperation limited peripheral examination. The patient did not have any new rashes or swelling elsewhere.\nHead computedtomography (CT) on admission was normal and did not show any acute orbital process. Orbital CT performed on day 2 showed new diffuse facial and periorbital edema with relative sparing of the intraconal fat. No intraorbital mass or hemorrhage was seen.\nWHAT WOULD YOU DO NEXT?\nA. Perform orbital biopsy \nB. Correct metabolic disturbance \nC. Review administered medications for possible allergic reaction \nD. Perform lateral canthotomy and cantholysis <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge004.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Acute Bilateral Periorbital Edema in a Psychiatric Patient"
+      }
+    ]
+  },
+  {
+    "id": "identity_69",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A middle-aged patient with history of bilateral penetrating keratoplasty (PKP) performed 20 years earlier for keratoconus presented with pain and blurriness of the right eye for 2 days. The patient reported adherence with the home regimen of prednisolone acetate 1%, 1 drop daily in both eyes for postoperative prophylactic immunosuppression. The patient reported no recent infectious illness or trauma. At a prior clinic visit, both corneal grafts were clear and compact, although both were ectactic. When using scleral contact lens (SCL), their best-corrected visual acuity was previously 20/40 OD.\nOn current presentation, the uncorrected visual acuity was counting fingers right eye, with no improvement on refraction and inability to tolerate a hard lens. Intraocular pressure was 18 mm Hg in the right eye. The eye had diffuse edema of the ectactic graft with microcystic edema, bullae, and folds in the Descemet membrane (DM)(Figure1). There were no visible keratic precipitates or endothelial rejection lines. The anterior chamber was formed without visible inflammatory cells. Posterior segment examination could not be performed, though B-scan ultrasonography was unrevealing. Because of concern about acute graft rejection, the patient started prednisolone acetate 1% drops every hour (with taper over several weeks) and methylprednisolone, 24 mg (with taper over 6 days). Three weeks later, the patient had no improvement in the edema or vision and reported occasional pain.\nWHAT WOULD YOU DO NEXT?\nA. Prescribe oral valacycolvir \nB. Prescribe the higher-potency topical corticosteroid topical difluprednate \nC. Perform anterior segment optical coherence tomography \nD. Prescribe a second course of oral corticosteroids <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge005（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge005（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Acute Corneal Edema in a Middle-Aged Patient"
+      }
+    ]
+  },
+  {
+    "id": "identity_70",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A47-year-old man presented to our clinic with a sudden decrease in vision in the right eye. One month prior, he had presented to the emergency department with binocular diplopia, bilateral cranial nerve 6 palsies, and an undifferentiated pontine mass on brain magnetic resonance imaging. Broad serologic workup results were negative, except for a positive syphilis total antibody with a nonreactive rapid plasma reagin test. Lumbar puncture with flow cytometry and cerebrospinal fluid venereal disease research laboratory test (CSF VDRL) result was also negative. The patient reported a history of syphilis treated with intramuscular penicillin 9 years prior. He was treated with systemic corticosteroids and discharged home on a steroid taper.\nOn our examination, his visual acuity was count fingers in the right eye and 20/20 in the left. He had a right afferent pupillary defect and intraocular pressures were 12 in the right eye and 11 in the left. Anterior segment examination was normal. Posterior examination of the right eye revealed 3+ vitreous cell, 2+ vitreous haze, and a large optic nerve head mass with optic disc hyperemia, scattered dot hemorrhages, and a subtle placoid lesion in the posterior pole (Figure 1A). Optical coherence tomography of the optic nerve demonstrated a large spherical mass protruding out of the optic nerve head (Figure 1B) and granular disruption of the ellipsoid zone in adjacent peripapillary retina.\nWHAT WOULD YOU DO NEXT?\nA. Perform diagnostic anterior chamber and/or vitreous tap and inject vancomycin and ceftazidime \nB. Perform pars plana vitrectomy for diagnostic vitreous biopsy \nC. Reinitiate systemic prednisone therapy \nD. Obtain additional treponemal test and, if positive, begin intravenous penicillin\n <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge006.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "An Atypical Optic Nerve Head Mass"
+      }
+    ]
+  },
+  {
+    "id": "identity_71",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 14-year old girl presented with sudden painless vision decline in the left eye for 5 days, without vision decline in the right eye. Her visual acuity was 20/20 OU 6 months earlier. She reported constant fatigue, occasional dizziness and headache, mild pain in the lower limbs, and intermittent claudication over the past 12 months, with no history of trauma, surgery, COVID-19 infection, influenza, or other infection.\nVisual acuity was light perception OD and no light perception OS. Both pupils dilated, with the right eye reacting sluggishly to light and the left eye being nonreactive. Intraocular pressure was 14 mm Hg OD and 11 mm Hg OS. Posterior examination revealed optic disc edema in each eye, and the left eye had a swollen and pale optic disc with segmental blood flow in retinal vessels (Figure 1A). Fluorescein angiography of the left eye had prolonged arm-to-retina circulation time and multiple microaneurysms at the superotemporal and inferotemporal retina (Figure 1B). Visual evoked potentials were negative in both eyes. She had an increased white blood cell count (10 540/μL; to convert to ×109 per liter, multiply by 0.001) and elevated erythrocyte sedimentation rate (73 mm/h) and had positive findings for cyclic citrullinated peptide antibody and antinuclear antibody. Other serology test results were negative, including hepatitis B and C virus, HIV, rapid plasma reagin, and anti–double-stranded DNA.\nWHAT WOULD YOU DO NEXT?\nA. Perform diagnostic anterior chamber and/or vitreous tap \nB. Initiate intravitreal corticosteroids \nC. Obtain brain magnetic resonance imaging \nD. Arrange a genetic test <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge007（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge007（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Acute Optic Neuropathy in a Teenaged Girl"
+      }
+    ]
+  },
+  {
+    "id": "identity_72",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A31-year-oldwoman presented for evaluation of bilateral blurry vision over the past month. She experienced fulminant hepatic failure 3 months ago and underwent a liver transplant 2 weeks later. Postoperative pathological results showed hepatolenticular degeneration. Routine prophylactic antiherpes virus therapy had been applied for 2 weeks. Immunosuppressants, including tacrolimus and mycophenolate sodium, were applied for subsequent maintenance therapy. She noticed the onset of decreased vision in both eyes about 2 months after the liver transplant. Diagnosed with ocular herpes virus infection, she was given systemic valaciclovir and ocular laser retinopexy around areas of necrosis. Her vision was not improved and twice intravitreous injection of ganciclovir was added. However, vision was decreasing continuously.\nAt her presentation to our clinic, the best-corrected visual acuity was finger count in the right eye and 20/125 in the left eye. On slitlamp examination of both eyes, 1+ aqueous cells and 1+ flare were presented in the anterior chamber, while the dilated fundus examination showed mild inflammation in the vitreous. Extensive patches of yellowish necrotic lesions were seen at the peripheral retina of the right eye and 1triangular necrotic lesion in the posterior pole (Figure 1A). A large annular necrosis was found in the peripheral retina of the left eye (Figure 1B).\nWHAT WOULD YOU DO NEXT?\nA. Find new microbial pathogens by intraocular fluid analysis to clarify the diagnosis \nB. Increase the dose of ganciclovir for antiherpes virus \nC. Add systemic steroids for the treatment of inflammation \nD. Stop all immunosuppressants <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge008（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge008（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Blurry Vision After a Liver Transplant"
+      }
+    ]
+  },
+  {
+    "id": "identity_73",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 46-year-old woman was referred for a second opinion regarding hydroxychloroquine retinal toxicity. Her medical history included systemic lupus erythematosus (SLE), diabetes type 1, nonalcoholic steatohepatosis, mild congenital hearing loss, and anemia. SLE was man- aged with azathioprine and belimumab, and she had been taking hydroxychloroquine, 400 mg, daily for 5 years before the medication was recently stopped due to concern for retinal toxicity. Review of systems was notable for imbalance, cognitive decline, major depression, and recent onset of suspected seizures.\nSnellen visual acuity was 20/30 OD and 20/20 OS and intraocular pressures were nor- mal. Results of slitlamp examination of the anterior segment were unremarkable, with clear corneas, quiet anterior chambers, and clear lenses bilaterally. Fundus examination revealed bilateral discrete perifoveal circular areas of atrophy. The optic discs and fundus were otherwise unremarkable. Fundus autofluorescence and optical coherence tomography (OCT) revealed perifoveal hypoautofluorescence corresponding with complete retinal pigment epithelium and outer retinal atrophy on OCT (Figure and insert). Automated 10-2 visual field testing revealed dense paracentral ring scotomata bilaterally.\nWHAT WOULD YOU DO NEXT?\nA. Confirm hydroxychloroquine retinal toxicity and recommend observation when not receiving therapy \nB. Recommend AREDS 2 supplementation \nC. Intravitreal injection of a complement inhibitor \nD. Genetic evaluation <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge009.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Perifoveal Atrophy in a 46-Year-Old Woman"
+      }
+    ]
+  },
+  {
+    "id": "identity_74",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A Hispanic woman in her 40s was referred for an asymptomatic epiretinal membrane in the left eye. Ocular history included amblyopia of the left eye. Medical history included chronic neuropathy, ataxia, and myelopathy of unknown etiology for which she was followed up by a neurologist. Family history was positive for consanguinity, but there were no known inherited conditions. Genetic testing showed a homozygous variant of undetermined significance in the SACS gene and a variant of undetermined significance in the SLC5A7 gene, but it was inconclusive whether these variants were related to her systemic conditions. Review of systems was otherwise negative.\nOn initial examination, best-corrected visual acuity was 20/30 OD and 20/100 OS. Intraocular pressure, pupils, anterior segment, and visual fields were normal bilaterally. Extraocular movements were saccadic with gaze-evoked horizontal nystagmus. Fundus examination revealed prominent peripapillary retinal nerve fibers with papillomacular bundle fine striae and slightly blunted foveal light reflex. There was also an irregular sheen of the nasal macula in both eyes, greater in the left eye (Figure 1). Axial length was 22.93 mm in the right eye and 22.10 mm in the left eye, with anterior chamber depth of 3.44 mm and 3.37 mm in the right and left eye, respectively.\nWHAT WOULD YOU DO NEXT?\nA. Obtain an electroretinogram \nB. Obtain optical coherence tomography of the macula and retinal nerve fiber layer \nC. Schedule pars plana vitrectomy with membrane peeling \nD. Obtain visual field testing <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge010（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge010（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Retinal Nerve Fiber Layer Thickening in a Middle-Aged Woman"
+      }
+    ]
+  },
+  {
+    "id": "identity_75",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A28-year-oldmanwas referred to the medical retina service for evaluation of bilateral retinal vasculopathy noted by his general ophthalmologist. Medical and family histories were unremarkable, and there was no record of prolonged medication use. The patient reported a decrease in visual acuity in his right eye for the past 2 weeks but did not express any systemic symptoms, such as fever, increased heart rate, or fatigue. His best-corrected visual acuity was 20/25ODand20/20OS. The pupils were round and responsive, and there were no notable abnormalities in the anterior segment. Fundus examination confirmed the presence of dilated and tortuous veins, along with white-centered retinal hemorrhages (ie, Roth spots) (Figure, A). Furthermore, the retinal periphery exhibited white intraretinal agglomerates and nonperfused areas. Fluorescein angiography demonstrated peripheral retinal vasculopathy with microaneurysms and retinal capillary nonperfusion (Figure, B).\nWHAT WOULD YOU DO NEXT?\nA. Indocyanine green angiography to rule out choroiditis \nB. Echocardiography to rule out infective endocarditis \nC. Blood testing to rule out hemato-oncologic disorders \nD. Ocular ultrasonography to rule out the presence of an intraocular tumor <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge011.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Retinal Vascular Tortuosity and Hemorrhages"
+      }
+    ]
+  },
+  {
+    "id": "identity_76",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 17-year-old male with an unremarkable medical history presented with 2 days of painless blurred vision in the right eye. Three weeks prior, he was admitted with fever, myalgias, hepatosplenomegaly, lymphadenopathy, and truncal rash. Laboratory evaluation revealed leukopenia and thrombocytopenia. Heterophile antibody test results were negative. He recovered with supportive treatment.\nOn examination, the patient was well appearing. His best-corrected visual acuity in the affected right eye was 20/25 and baseline count fingers in the left, secondary to amblyopia. His intraocular pressures were normal and extraocular movements were full. Examination was notable for 1+ anterior chamber cell in the right eye. Dilated fundus examination of the right eye revealed vitreous cell and a supratemporal branch retinal artery occlusion (BRAO) abutting the fovea. Multiple retinal nerve fiber layer infarcts were observed bilaterally throughout the posterior pole and retinal periphery. Fluorescein angiography demonstrated multifocal areas of retinal arteriolar and capillary nonperfusion, more so in the right eye than the left. Optical coherence tomography (OCT) of the right eye showed loss of inner retinal laminations, presumably due to intracellular swelling of the ganglion cell layer within areas of retinal arteriolar and capillary nonperfusion (Figure 1). Late vascular staining appeared limited to venules at the boundary of perfused and nonperfused retina and scattered areas of capillary nonperfusion. The patient denied intravenous drug use or antecedent trauma.\nWHAT WOULD YOU DO NEXT?\nA. Obtain outpatient embolic workup \nB. Perform intravitreal corticosteroid injection \nC. Order serologic infectious and inflammatory workup \nD. Check blood pressure <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge012.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Branch Retinal Artery Occlusion in an Adolescent Male"
+      }
+    ]
+  },
+  {
+    "id": "identity_77",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old male was referred for evaluation of a painless right lower-eyelid lesion noted during routine glaucoma follow-up. The lesion had been present for 3 years with slow, gradual enlargement. The patient denied any associated symptoms. He was a former smoker and had no history of skin cancer or immunosuppression. The remainder of his medical history was noncontributory.\nInspection of the right lower eyelid revealed a cystic-appearing nodule that transilluminated and had a few overlying telangiectasias. The cystic portion was continuous with a deeper, smooth subcutaneous component that was well defined, firm, and nonmobile, with a total lesion length of 1 cm (Figure 1A). There was no madarosis, eyelid margin effacement or preauricular lymphadenopathy. Although no overt features of malignancy were present, the deeper component was atypical for a hidrocystoma and an excisional biopsy was performed. Histopathologic evaluation showed a neoplasm composed of low-grade round nuclei growing in a micropapillary pattern within pools of extracellular mucin (Figure 1B). There was tumor present at the margin. Immunostains were positive for estrogen receptor and progesterone receptor. Variable staining for INSM1, a sensitive nuclear stain for neuroendocrine differentiation, and focal staining for synaptophysin, another neuroendocrine marker, were also seen. This immunophenotype is consistent with a primary tumor derived from endocrine mucin-producing sweat gland carcinoma or a metastatic mucinous carcinoma of breast origin.\nWHAT WOULD YOU DO NEXT? \nA. Wide local excision \nB. Excision with frozen sections \nC. Mohs surgery \nD. Metastatic workup <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge013.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Cystic-Appearing Eyelid Lesion in a 62-Year-Old Man"
+      }
+    ]
+  },
+  {
+    "id": "identity_78",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A man in his early 50s was admitted to the hospital after acute hypoxemic respiratory failure and cardiac arrest following aspiration, requiring 3 minutes of cardiopulmonary resuscitation. The patient was intubated on the scene and remained intubated due to lactic acidosis and elevated liver function test results. After these abnormalities normalized 3 days later, he was extubated and breathing comfortably on room air with normal vital signs, mild right-sided weakness, and no other known complications. One day after extubation, he noticed blurry vision peripherally and difficulty focusing at near. Ophthalmology was consulted. On evaluation, he had near visual acuity (VA) of 20/25 OU, no afferent pupillary defect, and full but slow confrontational visual fields (VF) on bedside examination. Anterior segment and dilated fundus examination results were normal. Results from computed tomography (CT) head scan without contrast and magnetic resonance imaging (MRI) brain scan with and without contrast were unremarkable. Two days later, the patient noted worsening vision and was found to have a VA of 20/40 in each eye with homonymous right- inferior quadrantanopia. A code stroke was called with repeat CT scan/CT angiography and MRI brain both with and without contrast that remained unremarkable, as did repeat se- rum electrolytes and metabolic panels (Figure 1). The following day, the patient noted further vision loss and was found to have bilateral light perception vision. There was no pupillary defect, blink to threat, optokinetic reflex response, or intraocular pathology explaining the substantial vision loss including fundus abnormalities. Repeat CT scan/CT angiography demonstrated no abnormalities.\nWHAT WOULD YOU DO NEXT? \nA. Repeat brain MRI \nB. Obtain an electroretinogram \nC. Consult psychiatry \nD. Observation <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge014.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Delayed Vision Loss Following Cardiopulmonary Resuscitation"
+      }
+    ]
+  },
+  {
+    "id": "identity_79",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An African American patient in their early 60s with a medical history significant for recent diagnosis of monoclonal gammopathy of unknown significance (MGUS) and prostate cancer was referred to the oculoplastic service for evaluation of intermittent, bilateral swelling and pain of their medial upper eyelids only for the past 2 years. They denied pruritus. Episodes occurred every few months and lasted for a few weeks at a time, with no obvious triggers. The patient denied other ocular symptoms and had no other skin findings. Their examination was notable for mild upper eyelid spongy edema with hyperpigmented, ecchymotic-appearing redundant skin overhanging the eyelid margins (Figure 1). There were no palpable nodules, and there was no lymphadenopathy. Review of systems was negative for fatigue, generalized muscle weakness, or neurologic deficits.\nWHAT WOULD YOU DO NEXT? \nA. Biopsy the eyelid skin \nB. Obtain computed tomography of the orbits \nC. Start a course of topical corticosteroids \nD. Order thyroid serologies <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge015（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge015（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Episodic Upper Eyelid Edema in an African American Patient"
+      }
+    ]
+  },
+  {
+    "id": "identity_80",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 67-year-old woman underwent an elective left external dacryocystorhinostomy to treat her symptomatic nasolacrimal duct obstruction. The procedure was completed successfully without any intraoperative complications. On the third postoperative day, the patient presented to the emergency department due to persistent cervicofacial swelling and ecchymoses of the left eyelids and left cheek, which had been present since the first postoperative day (Figure, A). On examination, visual acuity in both eyes was 20/30, which was slightly worse than her baseline of 20/25 bilaterally. The left pupil was noted to be mildly larger than the right (by 0.5 mm) in both dark and light, with no relative afferent pupillary defect observed. Intraocular pressure was elevated in the left eye (24 mm Hg, relative to 16 mm Hg in the right eye). Extraocular motility in both eyes was normal, though pain with extraocular movement was present (worse on the left). Crepitus was confirmed with palpation under the left eyelids and left cheek. Dilated fundus examination showed clear and quiet vitreous bilaterally. Slitlamp examination and globe position were within normal limits, and no signs of chemosis were present. A computed tomography (CT) scan of the patient’s head revealed extensive emphysema throughout the soft tissues of the face and neck (Figure, B). The globes, extraocular muscles, and optic nerves appeared normal.\nWHAT WOULD YOU DO NEXT? \nA. Perform an emergency decompression via needle evacuation \nB. Consider empirical antibiotics and manage the patient’s symptoms expectantly \nC. Perform surgical exploration and possible debridement \nD. Order magnetic resonance imaging of the orbits and sinuses <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge016.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Facial Swelling After External Dacryocystorhinostomy"
+      }
+    ]
+  },
+  {
+    "id": "identity_81",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 51-year-old male with a complaint of a 4-week history of redness and swelling of the right temporal bulbar conjunctiva was referred for evaluation of a choroidal lesion in the right eye. He had a history of BRAF V600 E mutation-positive, superficial spreading-type cutaneous melanoma (CM) on the chest with metastasis to a sentinel lymph node 3 years ago. He was treated at the time of diagnosis with excision of the primary tumor with clear margins and axillary lymph node dissection. He also had a papillary thyroid carcinoma 1 year earlier treated with thyroidectomy and radioactive iodine-131.He had a follow-up visit with his oncologist 2 days before his presentation to our ocular oncology clinic and he did not have any systemic findings suggestive of recurrence of his previous malignancies. The best-corrected visual acuity after a new refraction was 20/30 in the right eye and 20/20 in the left eye. Anterior segment examination of the right eye revealed temporal conjunctival hyperemia with dilated episcleral vessels. Fundus examination of the right eye revealed a partially pigmented choroidal lesion, measuring 26 × 21 × 8.1 mm, superotemporally extending to the macula associated with exudative retinal detachment inferiorly (Figure 1A). Ultrasonography showed an acoustically solid lesion with prominent intralesional vascularity with irregular internal structure on B-scan and mid to low internal reflectivity on A-scan (Figure 1B).\nWHAT WOULD YOU DO NEXT? \nA. Plaque radiotherapy \nB. Enucleation \nC. Fine-needle aspiration biopsy \nD. Observation <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge017.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Immunotherapy for a Choroidal Pigmented Lesion"
+      }
+    ]
+  },
+  {
+    "id": "identity_82",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 63-year-old woman with a history of type 1 diabetes presented with gradually progressive vision loss in the right eye for the past year. Her visual acuity on presentation was 20/80 OD and 20/25 OS. Anterior examination findings of both eyes were normal with clear posterior chamber intraocular lenses. Fundus examination of the right eye showed choroidal folds and a macula-involving retinal detachment with no identifiable retinal break and shifting subretinal fluid (Figure 1A). Fundus examination findings in the left eye were normal. Fluorescein angiography did not identify areas of leakage. B-scan ultrasonography demonstrated broad areas of low reflectivity within the sub-Tenon space and around the optic nerve (Figure 1B). Magnetic resonance imaging (MRI) revealed a contrast-enhancing area of soft- tissue thickening encircling the right optic nerve (Figure 1C). Serologies for syphilis, Lyme disease, rheumatoid factor, and antineutrophilic cytoplasmic antibody–associated vasculitis were negative. Chest radiographic findings were unremarkable.\nWHAT WOULD YOU DO NEXT? \nA. Begin oral prednisone \nB. Observe with interval orbital MRI \nC. Perform pars plana vitrectomy for retinal detachment repair \nD. Perform biopsy of the optic nerve lesion <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge018.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Looking Beyond and Behind a Retinal Detachment"
+      }
+    ]
+  },
+  {
+    "id": "identity_83",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 52-year-old woman presented with decreased vision in both eyes. She was diagnosed with type 2 diabetes 3 months before presentation, with a hemoglobin A1c of 13%. At that time, she was given metformin and semaglutide for glucose control. Her visual acuity was 20/50 OD and 20/200 OS. Fundus examination revealed retinal hemorrhages, hard exudates, and microaneurysms bilaterally (Figure, A and B). Fluorescein angiography revealed microaneurysms with noncentral leakage in the posterior pole with absence of significant ischemia and capillary dropout. Optical coherence tomography scans from the same day showed retinal edema with intraretinal fluid accumulation in both eyes (central sub- field thickness: 320 nm OD, 764 nm OS) with foveal detachment in the left eye. She was diagnosed with severe nonproliferative diabetic retinopathy with macular edema in both eyes. She received 2 and 3 injections of bevacizumab in the right and left eyes, respectively, followed by 2 injections of aflibercept in both eyes with minimal effect on the edema. Blood analysis showed the following values: hemoglobin, 10.4 g/dL; red blood cell count, 3.30 × 106/μL; white blood cell count, 10 470/μL; platelets, 197 × 103/μL; fasting blood glucose, 150 mg/dL (to convert to mmol/L, multiply by 0.0555); normal lipid profile; and creatinine, 1.2 mg/dL (to convert to μmol/L, multiply by 88.4). Hemoglobin A1c decreased to 6.8% at 7 months after presentation.\nWHAT WOULD YOU DO NEXT? \nA. Order serum protein electrophoresis \nB. Inject intravitreal dexamethasone \nC. Switch to ranibizumab, 0.3 mg \nD. Stop semaglutide <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge019.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Maculopathy in a 52-Year-Old Patient With Diabetes"
+      }
+    ]
+  },
+  {
+    "id": "identity_84",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 38-year-old White man was referred for evaluation of an incidentally discovered asymptomatic macular choroidal mass in the right eye. The spherical equivalent of refractive error was +2.50 D OU. His medical history was noncontributory. Visual acuity was 20/20 OU. External and anterior segment examination findings were unremarkable in each eye. Fundus examination of the right eye revealed an orange mass in the temporal macular region, measuring 6.0 mm × 6.0 mm in basal dimension and 2.6 mm in thickness, abutting the foveola, with prominent horizontal macular choroidal folds and a solitary retinal pigment epithelial (RPE) detachment inferiorly (Figure 1A). In addition, another orange mass was identified in the right eye nasal to the optic disc, measuring 3.0 mm × 3.0 mm in basal dimension and 2.1 mm in thickness. Indocyanine green angiography (ICGA) showed early choroidal hyperfluorescence of both tumors, with rapid choroidal washout and pooling of dye within the RPE detachment (Figure 1B). On optical coherence tomography (OCT), both lesions were located within the choroid, with smooth apical surface configuration, choroidal vascular expansion, no subretinal fluid, and nearby choroidal folds. On ultrasonography, both lesions were acoustically dense. Subfoveal choroidal thickness measured 310 μm OD and 252 μm OS. Examination and multimodal imaging of the left eye showed subtle horizontal macular choroidal folds and no mass. Axial length by A-scan ultrasonography was 21.7 mm OD and 22.7 mm OS, consistent with axial hyperopia greater in the right eye than in the left eye.\nWHAT WOULD YOU DO NEXT? \nA. Transpupillary thermotherapy \nB. Laser photocoagulation \nC. Imaging of the chest and abdomen \nD. Plaque radiotherapy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge020（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge020（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Multifocal Unilateral Orange Fundus Tumors in a Young Man"
+      }
+    ]
+  },
+  {
+    "id": "identity_85",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A Black woman in her early 70s with a history of coronary artery disease after coronary artery bypass operations, hypertension, and colon polyps presented to oculoplastic surgery with 1 week of progressive right-sided proptosis and headache, described as severe pain radiating to the back of her head. This was associated with right eyelid ptosis and blurry vision. Prior to presentation, an outside ophthalmologist treated her with 1 week of oral prednisone, 20 mg/d, for presumed orbital inflammation with no improvement. She denied additional symptoms. Notably, she described headache and sudden vision loss in the right eye after coronary artery bypass grafting 1 year ago for several days before spontaneous improvement with incomplete resolution. Personal and family histories were negative for malignant neoplasm and autoimmune disease.\nExamination revealed right-sided uncorrected Snellen visual acuity of 20/60 associated with restricted supraduction, abduction, and infraduction. Pupils were equal in size without a relative afferent pupillary defect, and intraocular pressures were 10 mm Hg OD and 11 mm Hg OS. Visual fields had temporal restriction to confrontation of the right eye. Vision, motility, and visual fields were normal on the left. Pertinent findings included right- sided proptosis of 2 mm, cranial nerve V1 and V2 hypoesthesia, eyelid ptosis with a margin to reflex distance 1 of 0 mm, optic disc pallor, and vessel attenuation. Outside magnetic resonance imaging (MRI) demonstrated an infiltrative mass involving right greater than left orbital apices, the right optic nerve, and right extraocular muscles. There was enhancement of the cavernous sinuses, right pterygopalatine fossa, right sphenoid wing, and right middle cranial fossa dura (Figure 1).\nWHAT WOULD YOU DO NEXT? \nA. Restart corticosteroids at a higher dose \nB. Refer to the neurosurgery department for cranio-orbito-zygomatic craniotomy \nC. Perform urgent orbital exploration and biopsy \nD. Order urgent radiotherapy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge021（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge021（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Older Woman With Proptosis, Ptosis, and Blurred Vision"
+      }
+    ]
+  },
+  {
+    "id": "identity_86",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 4-year-old child attended the eye emergency department with a 3-day history of worsening painful swelling and redness over the left side of her nose and left lower eyelid (Figure 1A). She had been unwell for 5 days before presentation with a temperature of 39 °C, managed at home with acetaminophen.\nOn examination, she had swelling and erythema over the left lacrimal sac and left lower eyelid. Her visual acuity was 20/20 OU. The anterior segment examination was normal, the extraocular movements were full and pain free, and the optic discs appeared normal. On systemic evaluation, the child had marked cervical lymphadenopathy and hepatosplenomegaly. Her past medical history included a previous episode of left lower eyelid swelling at 6 months of age, which was treated with a course of oral antibiotics. The parents denied any tearing or eye discharge before, or after, this episode.\nBlood workup revealed raised C-reactive protein level (27.4 mg/L, normal range, 0-5.0 mg/L; to convert to milligrams per deciliter, divide by 10), elevated white blood cell count (22.20 × 109/L, normal range, 6.0-18.0 × 109/L; to convert to per microliters, divide by 0.001), and elevated liver function enzyme levels: alanine transaminase (403 U/L, normal range, 10-35 U/L; to convert to microkatals per liter, multiply by 0.0167), aspartate transaminase (300 U/L, normal range, 0-35 U/L; to convert to microkatals per liter, multiply by 0.0167), and alkaline phosphatase (430 U/L, normal range, 142-335 U/L; to convert to microkatals per liter, multiply by 0.0167).\nThere was no improvement after 3 days of intravenous ceftriaxone. A contrast computed tomography (CT) scan of the orbits identified a collection within the lacrimal sac (Figure 1B).\nWHAT WOULD YOU DO NEXT? \nA. Trial of alternative intravenous antibiotics \nB. Lacrimal probing with nasal endoscopy \nC. External incision and drainage of the abscess \nD. Endoscopic dacryocystorhinostomy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge022.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Periocular Swelling, Fever, and Organomegaly in a 4-Year-Old Child"
+      }
+    ]
+  },
+  {
+    "id": "identity_87",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 71-year-old woman without substantial medical history was referred for 2 months of progressive worsening of vision and pain in her right eye despite corticosteroid treatment following a recent excisional conjunctival biopsy with cryotherapy at an outside institution for suspected squamous cell carcinoma in situ. Pathology was reported to be negative for malignancy. The patient noted postoperative pain that was suspected to be postsurgical inflammatory scleritis and managed by an outside ophthalmologist with a combination of topical prednisolone, oral prednisone, and subtenon triamcinolone acetonide.\nOn presentation, the patient’s Snellen visual acuity without correction was count fingers in the right eye and 20/50 in the left eye with a baseline of 20/100 in the right eye and 20/60 in the left eye. The anterior segment examination of the right eye revealed conjunctival hyperemia with prominent scleral vessels, greatest inferiorly. Scleral thinning was noted inferotemporally, as well as a temporal crescent of corneal stromal melt (Figure 1). A persistent depot of subtenon triamcinolone acetonide was noted inferotemporally. A retrocorneal white plaque was noted from clock positions 6:00 to 9:30 with 4+ cell and flare per Standardization of Uveitis Nomenclature classification. Posterior synechiae were present and the pupil was peaked inferotemporally. There was no view posteriorly and a B-scan ultrasonography revealed moderate vitreous opacities without retinal detachment, choroidal effusion, or Tenon space edema. The left eye was normal.\nWHAT WOULD YOU DO NEXT? \nA. Inject intravitreal methotrexate \nB. Start topical interferon alpha-2b \nC. Perform anterior chamber biopsy of retrocorneal plaque \nD. Perform vitreous tap and injection of intravitreal vancomycin, ceftazidime, and voriconazole <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge023.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Postoperative Inflammation After Anterior Segment Surgery"
+      }
+    ]
+  },
+  {
+    "id": "identity_88",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 75-year-old woman presented with a history of enlarging, erythematous right upper eyelid lesions. She reported approximately 3 months of symptoms, with initial development of a single erythematous lesion along the eyelid margin. The lesion had previously been evaluated by another practitioner who diagnosed a hordeolum and prescribed erythromycin ointment and warm compresses. However, the lesion became progressively larger with development of a second medial lesion over the ensuing 2 months, prompting referral. She denied pain, trauma, and prior skin cancer. Her medical history was notable for essential thrombocythemia (ET) with calreticulin (CALR) gene variation. Her ocular history was notable for an upper eyelid blepharoplasty 20 years prior but was otherwise unremarkable.\nExamination of the right upper eyelid demonstrated a central lesion with a thickened eyelid margin, madarosis, and inspissated glands, and a medial nodular and erythematous lesion with overlying ulceration (Figure 1). There was minimal tenderness to palpation. There was no proptosis, and her extraocular muscle movements were full. There was mild conjunctival injection of the right eye without any conjunctival lesions. The remainder of her ocular examination was unremarkable.\nWHAT WOULD YOU DO NEXT? \nA. Intralesional corticosteroid injection \nB. Biopsy of eyelid lesions \nC. Oral antibiotics \nD. Oral corticosteroids <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge024（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge024（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Progressive Eyelid Lesions in a Woman With Essential Thrombocythemia"
+      }
+    ]
+  },
+  {
+    "id": "identity_89",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 73-year-old man presented to the oculoplastics clinic with a 5-day history of a rapidly growing right eyebrow lesion. The lesion was not causing substantial discomfort, and the patient denied additional symptoms, including vision changes. The patient had no history of malignancy or other dermatologic problems. On examination, he had a large erythematous nodule with raised borders under the right brow with central ulceration that was draining clear material (Figure 1A). The rest of the ophthalmic examination was normal. Based on the rapid presentation and clinical appearance, the lesion was hypothesized to be a brow abscess. The patient was prescribed clindamycin 4 times a day for 10 days and erythromycin ointment twice a day for 10 days, instructed to start warm compresses to promote abscess drainage and healing, and told to follow up in 1 week. Erythromycin, commonly used in skin infections, was used topically for coverage of gram-positive and some gram-negative organisms. Clindamycin was prescribed orally due to the concern for skin abscess and to cover Staphylococcus and Streptococcus species.\nAfter 1 week, the lesion continued to enlarge (Figure 1B). The ulcerated central depression displayed minimal drainage without expressible material. The patient’s ophthalmic examination continued to be otherwise normal. Although trimethoprim/sulfamethoxazole and clindamycin cover various Staphylococcus subtypes, the patient was prescribed trimethoprim/sulfamethoxazole for 14 days given no response to the clindamycin trial and to increase the gram-negative coverage. At the patient’s next visit 1 week later, 2 weeks after presentation, the lesion remained refractory to treatment and appeared unchanged.\nWHAT WOULD YOU DO NEXT? \nA. Observe with no additional testing or intervention \nB. Biopsy of the lesion \nC. Corticosteroid injection \nD. Trial another antibiotic (such as doxycycline) for atypical mycobacteria and anti-inflammatory properties <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge025.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Rapidly Growing Eyelid Lesion in a 73-Year-Old Man"
+      }
+    ]
+  },
+  {
+    "id": "identity_90",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A59-year-old woman was referred to our clinic. Her parents were consanguineous (first cousins). In 2013, her best-corrected visual acuity (BCVA) was 20/25 OD and 20/40 OS. Fundus examination showed well-demarcated areas of pigmented retinochoroidal atrophy along the vascular arcades with normal optic disc in the right eye. In the left eye, fundus examination showed diffuse bony spicules, disc pallor <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge026.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Simultaneous Pigmented Paravenous Retinochoroidal Atrophy and Retinitis Pigmentosa in the Contralateral Eye"
+      }
+    ]
+  },
+  {
+    "id": "identity_91",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 70-year-oldAsian-Indian male was referred for evaluation of a slow-growing conjunctival mass in the right eye over 27 years. There was no pain or discharge. He had previously undergone partial lamellar sclerouvectomy (PLSU) 30 years prior for ciliochoroidal melanoma in the right eye, followed by pars plana vitrectomy and scleral buckle 1 year later for retinal detachment (RD) with vitreous hemorrhage (VH) in the right eye. On examination, visual acuity was no light perception OD Multimedia and 20/25 OS, with intraocular pressures of 33 mm Hg and 17 mm Hg in the right and left eyes, respectively. Examination results of the left eye were normal. Anterior segment examination in the right eye revealed thin conjunctiva with a nontender multilobular pigmented lesion in the superonasal quadrant (Figure 1), underlying Tenon fascia and surrounded by prominent episcleral feeder vessels (Figure 1, yellow arrowhead). The cornea showed nasal epithelial defect and flat anterior chamber with cataract and iris neovascularization. There was no view to the posterior segment. Ultrasonography revealed a homogenous echodensity within the vitreous cavity (Figure 1 insets, asterisks) measuring 21 mm in thickness, along with an echolucent episcleral mass (Figure 1 insets, arrowhead) 7 mm thick. In addition, spontaneous vascular pulsations (SVP) were noted within the intraocular component(Video).\nWHAT WOULD YOU DO NEXT? \nA. Scleral patch graft \nB. Magnetic resonance imaging of the head and orbits \nC. Incisional biopsy \nD. Observation <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge027（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge027（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Subconjunctival Mass 30 Years After Melanoma Resection"
+      }
+    ]
+  },
+  {
+    "id": "identity_92",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 37-year-old woman was referred for evaluation of a retinal detachment in her left eye. She noted a sudden vision loss in her left eye 3 days prior to presentation. Her Snellen visual acuity on presentation was 20/20 OD and 20/200 OS, and intraocular pressure was normal in both eyes. Anterior segment examination revealed shallowing of the anterior chamber in the left eye. Posterior examination results demonstrated a retinal detachment in the posterior pole with shifting fluid and no identifiable retinal break (Figure 1A). No vitreous cell was noted. Findings of imaging testing were notable for thickened choroid with a hyporeflective band on ultrasound biomicroscopy (Figure 1B).\nShe had a medical history of idiopathic pulmonary arterial hypertension (World Health Organization group 1 pulmonary hypertension) and was currently undergoing evaluation for a bilateral lung transplant. She was currently taking macitentan, an endothelial receptor antagonist; subcutaneous treprostinil, a continuous prostanoid infusion; and riociguat, a guanylate cyclase stimulator. She noted increased dyspnea, exertional hypoxemia, and peripheral edema in the preceding weeks; her diuretic therapy was adjusted and oxygen therapy was added. Chest, abdomen, and pelvis computed tomography demonstrated an ovarian cyst and cardiomegaly. Echocardiography showed findings of severe pulmonary hypertension and severe right ventricular dysfunction.\nWHAT WOULD YOU DO NEXT? \nA. Perform pars plana vitrectomy for retinal detachment repair \nB. Begin high-dose prednisone \nC. Work with pulmonary hypertension specialist to optimize pulmonary hypertension management \nD. Start eplerenone therapy <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge028.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Sudden Vision Loss"
+      }
+    ]
+  },
+  {
+    "id": "identity_93",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A previously healthy 20-year-old Asian woman was hospitalized in the neurology department after experiencing fever, malaise, headache, nausea, vomiting, and neck stiffness for 2 weeks. Computed tomography scan results revealed meningoencephalitis. Her systemic inflammatory markers were elevated, including a left-shifted leukocytosis with a white blood cell count of 19 610 μL (normal values, 3500-9500 μL), a monocyte count of 900 × 103 μL (normal values, 100-600 × 103 μL), and normal C-reactive protein level. Cerebrospinal fluid studies were suggestive of viral meningoencephalitis, including elevated protein levels (0.074 g/dL; normal values, 0.015-0.045 g/dL) and increased leucocyte (93 × 106/L; normal values, 0-8 × 106/L). Cytological examination showed an increase in lymphocytes. Intracranial pressure was elevated (>320 mm H2O), and the glucose level was 2.08 mmol/L (normal values, 2.5-4.5 mmol/L).\nOn day 2 of hospitalization, the patient experienced blurred vision in both eyes. Her visual acuity was 20/500 in both eyes. Both eyes had normal pupillary responses, color vision, and intraocular pressures. The results of an anterior chamber examination were unremarkable. The results of scanning laser ophthalmoscopy of both eyes revealed substantial inflammation, including marked disc edema, retinal vein dilation and tortuosity, extensive retinal vascular sheathing (Figure 1). Optical coherence tomography showed vitritis and cystoid macular edema in both eyes. Fluorescein angiogram revealed tortuous dilatation of retinal venous vessels with fluorescence leakage, while the optic disc exhibited hyperfluorescence.\nWHAT WOULD YOU DO NEXT? \nA. Administer systemic corticosteroids \nB. Evaluate for systemic infectious disease \nC. Initiate immunomodulatory therapy with intravenous immunoglobulin \nD. Intravitreal injection with anti– vascular endothelial growth factor <|vision_start|>JAMA O 2024\\figure\\Clinical_Challenge029.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Viral Meningoencephalitis and Bilateral Blurry Vision"
+      }
+    ]
+  },
+  {
+    "id": "identity_94",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 57-year-old female individual with no ocu-lar history presented with 1 month of worsening redness and discomfort of the right eye. She had a history of left-sided ad-vanced triple-negative breast cancer, treated with surgery, ra-diation, and 9 cycles of pembrolizumab-based therapy when symptoms began.\nExamination showed a raised pink conjunctival lesion near the temporal limbus. After a negative serologic workup for autoimmune and infectious causes, the patient underwent an excisional biopsy, revealing epithelial ulceration and inflammation. On high-powered magnification, many neutrophils and lymphocytes interspersed with eosinophils were noted, suggesting a potential drug reaction.\n <|vision_start|>JAMA O 2024\\figure\\Observation001（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation001（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Association of Conjunctival Ulceration With Pembrolizumab"
+      }
+    ]
+  },
+  {
+    "id": "identity_95",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 96-year-old woman with neovascular age-related macular degeneration (nAMD) presented with a 2-week history of bilateral eye pain and reduced vision 18 days following bilateral intravitreal faricimab injections. Before initiating faricimab, she had received 15 ranibizumab injection sand then 38 aflibercept injections in the right eye, and 21 aflibercept injections in the left eye over 8 years. At her last bilateral faricimab injections, visual acuity (VA) was 20/120ODand 1/36OS. She had no history of intraocular inflammation (IOI), systemic autoimmune disease, or medications associated with retinal vasculitis. Presenting VA was 20/160 OD and counting fingers OS, with intraocular pressure of 31 mmHg OU, keratic precipitates, and bilateral anterior and posterior vitreous cells. Attenuation of retinal arterioles and veins was associated with2 blot hemorrhages and pallor of the inferotemporal retina without emboli in the left eye.\nOptical coherence tomography angiography had choriocapillaris flow voids, more marked in the left eye (Figure 1B). Ultra-wide field fundus fluorescein angiogram (UWF-FFA) demonstrated peripheral retinal venous, arteriolar, and capillary nonperfusion and hyperfluorescent leakage of retinal veins, arteries, and optic discs, with veins more involved than arteries and the left eye more affected than the right. Results for chest radiography, syphilis serology, QuantiFERON gold, rheumatoid factor, angiotensin-converting enzyme, antinuclear antibody, and antineutrophilic cytoplasmic anti-body were unremarkable. With only mild inflammation, neither anterior nor vitreous taps for bacterial, fungal, or viral polymerase chain reaction analyses were performed. <|vision_start|>JAMA O 2024\\figure\\Observation002（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation002（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Association of Occlusive Retinal Vasculitis With Intravitreal Faricimab"
+      }
+    ]
+  },
+  {
+    "id": "identity_96",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 55-year-old female with a known right parietooccipital World Health Organization grade IV glioblastoma presented to the eye emergency department for 2 weeks of bilateral floaters followed by eye pain, photophobia, and blurry vision. She had previously undergone partial tumor resection and 1 round of chemotherapy. A direct infusion of her-pes simplex virus type 1(HSV-1), C134 oncolytic virus was injected into her glioblastoma as part of a clinical trial 3 weeks before presentation.\nHer presenting visual acuity was 20/400ODand 20/40OS. Corneal edema and 3+ anterior chamber cell were present in both eyes. Vitritis obscured details of the fundi, but peripheral retinal whitening and perivascular hemorrhages were appreciable bilaterally. Optical coherence tomography of the maculae showed intraretinal and subretinal fluid.\nThe patient was admitted for intravenous acyclovir. A diagnostic anterior chamber tap and bilateral intravitreal foscarnet injections were performed. Serological infectious and autoimmune testing was negative.\nOne day after admission, a rhegmatogenous retinal detachment developed in the right eye and a pars plana vitrectomy with retinal detachment repair and silicone oil insertion was performed. Intraoperative pure vitreous samples revealed more than 1 million copies/mL of HSV. Subsequent specialized polymerase chain reaction (PCR) of these samples confirmed the presence of HSV-1, C134.\nBiweekly intravitreal antiviral injections were administered for 3 weeks (alternating ganciclovir and foscarnet). Prednisone, 60 mg, by mouth was initiated after 2 days of antiviral therapy. The patient was monitored in the intensive care unit for 6 days before discharge and given valacyclovir, 2 g, by mouth three times daily.\nOver a 3-month period, she underwent 3 vitrectomies in the right eye and 2 in the left eye, repairing rhegmatogenous retinal detachments with proliferative vitreoretinopathy. <|vision_start|>JAMA O 2024\\figure\\Observation003（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation003（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Acute Retinal Necrosis After Oncolytic HSV-1 Treatment of Glioblastoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_97",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A male patient in his late 20s presented with severe pain, photophobia, and visual changes in his left eye for the past 2weeks. His medical history was significant for AIDS, with past infections including syphilis, cytomegalovirus, Pneumocystis jiroveci (formerly Pneumocystis carinii) pneumonia, giardiasis, and condyloma acuminata. In the past year, a diagnosis of mpox was treated with tecovirimat over 24 days (10 days intravenously and 14 days orally). The patient’s symptoms improved while taking treatment. One month post therapy, the patient noted recurrence of the prior skin lesion and left eye symptoms and a new 2-cm ulcerated forehead lesion. Results of the forehead lesion swab polymerase chain reaction were positive for Orthopoxvirus.\nInitial ophthalmic evaluation was significant for severe hyperemia of the left eye with demarcation lines suggestive of necrosis. The patient had severe pain in the left eye, and visual acuity was counting fingers OS. CD4 lymphocyte count was 12 cells/uL at the time of admission. A full-thickness conjunctival biopsy was performed due to the pro-found CD4 lymphopenia necessitating exclusion of opportunistic infections and potential concerns regarding medication compliance for HIV and mpox infections.\nOn hematoxylin-eosin staining, the inferior conjunctival sample showed acute conjunctivitis with subconjunctival edema and hemorrhage, mild acute neutrophilic infiltrates throughout the conjunctiva, and mild perivascular lymphoplastic infiltrate. The superior conjunctival sample showed acute ulcerative conjunctivitis with necrosis and exudate, karyorrhectic neutrophilic debris, rare eosinophilic glassy nuclear pseudoinclusions, and mixed acute and chronic infiltrate and subconjunctival edema. There were no cytoplasmic inclusions visible on hematoxylin-eosin stains. Results of immunohistochemical testing were positive for Orthopoxvirus antigen in the cytoplasm of cells in the ulcerated area, and electron microscopy demonstrated viral particles in the cytoplasm with none in the nucleus, typical of orthopox virus species.\n <|vision_start|>JAMA O 2024\\figure\\Observation004（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation004（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Conjunctival Biopsy of a Patient With Mpox"
+      }
+    ]
+  },
+  {
+    "id": "identity_98",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 9-year-old boy had vision impairment in his left eye. Examination of the left eye included visual acuity of questionable light perception, microphthalmos, and a retrolental cyclitic membrane. Examination showed a fleshy, whitish-pink ciliary body mass. B-scan ultrasound confirmed a ciliary body mass with intralesional cysts and total retinal detachment. The right eye had visual acuity of 20/20 and otherwise was unremarkable. Orbital magnetic resonance imaging showed inhomogeneous posterior chamber signals with diffuse, marked, and irregular circumferential thickening of the inner choroid and retinal layer. The left ciliary body was thickened associated with a hypervascular lesion, 7 × 5 × 2.7 mm3 with intense and anomalous enhancement. The clinical and imaging findings were consistent with MECB. Therefore, left eye enucleation was performed. Histological examination showed neoplastic proliferation involving the inner surface of the ciliary body. The neoplasm also had cells with poorly differentiated neuroblastic morphology, arranged in rosettes with increased mitotic activity. Immunohistochemical stains showed positivity for neuron- specific enolase, MNF116 cytokeratins, CK 8/18, weak and focal reactivity for S100, and negativity for acidic glial fibrillar protein. There were no areas of heterologous differentiation nor invasion of the iris, cornea, or sclera. The real-time polymerase chain reaction con- ducted on formalin-fixed paraffin-embedded samples of tumor tissue revealed presence of a mutation in exon 25 (p.E1813D) of the DICER1 gene. The ultrasound examination of the head and neck lymph nodes revealed an enlarged thyroid with an inhomogeneous echogenicity, consisting of various mixed solid-cystic and iso-hyperechoic nodules. Fine-needle aspiration revealed numerous aggregates of thyrocytes in a microfollicular arrangement with a mildly increased nucleus-cytoplasmic ratio. Radiological examinations showed no masses or neoplasms in other organs. <|vision_start|>JAMA O 2024\\figure\\Observation005（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation005（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "DICER1 Syndrome Discovered Through an Eye Tumor"
+      }
+    ]
+  },
+  {
+    "id": "identity_99",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 52-year-old female was diagnosed with right lung adenocarcinoma (T3N2M0IIIA) complicated by cervical lymph and hilar lymph node metastasis 5 months previously. Genetic testing revealed a RET gene fusion, and she was enrolled in a phase 1/2 clinical trial in which a novel tyrosine kinase inhibitor called KL590586 was used orally to inhibit the proliferation of tumors with RET gene mutations. After 2 weeks of the medication, her ophthalmic examination showed a best-corrected visual acuity (BCVA) of 20/20 OU. Slitlamp examination and fundus photography showed no anterior or posterior segment abnormalities. Optical coherence tomography (OCT) of the macular area. The central subfield thickness was 254 μm OD and 240 μm OS, and the central subfield volume was 10.5 mm3 OD and 10.3 mm3 OS. Fourteen weeks after starting the medication, the patient had a second ophthalmic examination. Her BCVA and fundus photographs remained the same as before, whereas the high-definition OCT showed thickening of the interdigitation zone (IZ) without an obvious change of autofluorescence. The patient was asked to follow up while continuing to take the medication. \nThree weeks later, she reported a mild yellowish central scotoma in both eyes. Her BCVA was still 20/20 OU and the autofluorescence remained normal, but the OCT showed further thickening of the IZ combined with a fovea-involved focal neurosensory retinal detachment bilaterally. The maximum width and height of the detached area were 1412 μm and 78 μm OD and 1451 μm and 60 μm OS, respectively. <|vision_start|>JAMA O 2024\\figure\\Observation006（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation006（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Fovea-Involved Outer Retinal Abnormality Induced by a Novel RET Inhibitor"
+      }
+    ]
+  },
+  {
+    "id": "identity_100",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A young adult with HIV who was not receiving antiretroviral therapy presented with bilateral photophobia and decreased vision. CD4 count was 24 cells/mm3 and HIV RNA level was 175 000 copies/mL. Multiple sexual partners with inconsistent protection were reported. Review of systems was positive for a pruritic back rash of crusting erythematous plaques.\nPresenting uncorrected visual acuity was hand motions in both eyes. Intraocular pressures, measured by iCare, were 14 and 9 mm Hg in the right and left eye, respectively. Examination of the right eye showed corneal stromal haze, 3+ anterior chamber cell (26-50 cells/1 × 1 mm slitlamp field), posterior synechiae, vitreous cell and haze obscuring retinal vascular details, blurred disc margins, and superonasal peripheral retinal whitening. Examination of the left eye showed corneal haze, 1-mm hypopyon, posterior synechiae, vitreous cell and haze obscuring retinal vascular details, blurred disc margins, and superotemporal peripheral retinal whitening . Fluorescein angiography showed bilateral optic disc leakage and staining in the left eye of supero- temporal retinitis.\nIntravitreal foscarnet was empirically administered, and frequent topical steroids were initiated. Aqueous fluid from both eyes returned negative for herpetic viral DNA by polymerase chain reaction. Results of Treponema pallidum serum antibody (DiaSorin LIAISON XL), T-spot, and Toxoplasma gondii serum antibody tests and urine cultures were negative, and echocardiogram and chest radiography were normal. Blood cultures grew polymicrobial bacteria of uncertain significance. Vitreous cultures were negative for bacteria and fungi. Cerebro- spinal fluid was negative for VDRL and other microbiologic studies. Empirical treatment with intravitreal and systemic broad-spectrum antibiotic, antiviral, and antifungal yielded little improvement in posterior inflammation.\nA direct scraping of skin lesions demonstrated spirochetes with histopathology. Rapid plasma reagin testing (initially not performed reflexively) was then per- formed, yielding a 1:64 titer. Cerebrospinal fluid T pallidum particle agglutination assay results were positive. Repeat serum treponemal antibody testing remained negative. After 14 days of intravenous penicillin, visual acuity and vitritis improved, and peripheral retinitis resolved. Outer neurosensory retinal attenuation persisted on optical coherence tomography.  <|vision_start|>JAMA O 2024\\figure\\Observation007（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation007（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Negative Treponemal Serologies in Syphilitic Panuveitis"
+      }
+    ]
+  },
+  {
+    "id": "identity_101",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 28-year-old woman presented with a subconjunctival mass in the inner canthus of the left eye that had been growing for 2 years. The patient did not have any other symptoms. She had no history of ocular trauma. She stated that she had never eaten or handled snakes; however, she was used to eating crocodile meat.\nPhysical examination revealed a subconjunctival foreign body, motile, but without spontaneous movement, in the inner canthus of the eye. The anterior chamber showed no signs of inflammation. The rest of the examination was unremarkable. \nAfter a conjunctival incision, a 10-mmC-shapedlarva, with several annulations, was extracted. \n <|vision_start|>JAMA O 2024\\figure\\Observation008（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation008（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ocular Pentastomiasis in Human Hosts"
+      }
+    ]
+  },
+  {
+    "id": "identity_102",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 8-year-old female presented with a 5-month history of left visual loss. Left visual acuity (VA) (logMAR) was 20/600 (1.46), and intraocular pressure (IOP) was 16 mm Hg with timolol with an inferior bullous ERD. Optical coherence tomography showed subretinal fluid (SRF) with acoustically dense choroidal thickening on B-scan ultrasound. Indocyanine green angiography demonstrated diffuse hyperfluorescence  and magnetic resonance imaging excluded leptomeningeal angiomatosis. Due to a supply interruption of verteporfin in 2021, PDT was not performed initially. Oral sirolimus was commenced to treat the ERD and port-wine stain at 2 mg daily except twice a week when she took 2 mg twice a day to achieve a stable therapeutic level of 8.0 μg/L at 7 hours postdosing. Adverse effects (headaches and mouth ulcers) were monitored on systemic review and 3-monthly blood tests (complete blood cell counts, kidney and liver function, and lipid profile) were performed.\nThe inferior bullous ERD resolved after 4 months. Despite complete resolution at 6 months, VA declined to 20/900 (1.66). Sirolimus was ceased at this point and 8 months later, VA improved to 20/160 (0.90). Ten months after cessation of sirolimus, SRF returned and VA reduced to 20/500 (1.40). Sirolimus was subsequently restarted at the same initial dose of 2 mg/d except 2 days of 4 mg/d per week. SRF improved by 6 weeks with complete resolution by 3 months. VA remained stable at 20/250 (1.00) at 15 months and the patient continues to receive sirolimus. B-scan measurements showed stable tumor thickness of 4.5 mm despite resolution of SRF . Timolol was ceased and IOP remained at 14 mm Hg. There was no adverse event from immunosuppression or drug intolerance during follow-up. <|vision_start|>JAMA O 2024\\figure\\Observation009（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation009（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Oral Sirolimus for Diffuse Choroidal Hemangioma in Sturge-Weber Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_103",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 61-year-old woman with no medical history presented with bilateral blurry vision a few days after dyeing her hair with hair dye containing aromatic amines. The patient used a commercially available hair dye that contained aromatic amines called para-phenylenediamine. She reported no exposure to corticosteroids.\nVisual acuity was 20/40 in the right eye and 20/20 in the left eye. Fundus examination revealed bilateral multiple SRDs located primarily in the posterior pole . Optical coherence tomography (OCT) imaging revealed multiple SRDs and diffuse thickening of the neurosensory retina. Choroidal thickness through the fovea was 250 μm, with no pigment epithelium detachment or abnormally dilated choroidal vessels that might be associated with central serous chorioretinopathy. Fundus autofluorescence showed hypoautofluorescent SRDs.\nFluorescein angiography showed no leakage or vasculitis and the SRDs did not stain during the angiographic sequence. Indocyanine green angiography revealed neither abnormally dilated choroidal vessels nor choroidal diffusion.\nAn extensive etiological assessment was conducted, including comprehensive blood tests and chest computed tomography scan to exclude sarcoidosis, brain magnetic resonance imaging and anterior chamber tap interleukin 6/10 assay to rule out oculocerebral lymphoma, and positron emission tomography scan, mammogram, and dermatological and gynecological examination to investigate a potential acute exudative polymorphous vitelliform maculopathy. All tests yielded normal results. \nFour months later, visual acuity was 20/20. Fundus examination showed complete resolution of the SRDs. OCT revealed subretinal deposits that were hyperautofluorescent, without any residual SRD\n <|vision_start|>JAMA O 2024\\figure\\Observation010（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation010（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinopathy Associated With Hair Dye"
+      }
+    ]
+  },
+  {
+    "id": "identity_104",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An individual around 60 years old living in a rural area in the southeastern US was hospitalized because of altered mental status, fever, flaccid paralysis of all extremities, and respiratory failure with lower lobe nodules and a left lower lobe infiltrate. They had a history of porphyria with polyneuropathy, alcohol use disorder, and a recent diagnosis of hyper-IgE syndrome, for which they received oral prednisone before admission to the hospital. Bronchoalveolar lavage revealed S stercoralis, Aspergillus fumigatus, Candida spp, and Pseudomonas aeruginosa. They were treated with broad-spectrum antimicrobials but remained neurologically vegetative until their death. An autopsy revealed disseminated aspergillosis and candidiasis without ocular involvement and disseminated strongyloidiasis involving the lungs, liver, pancreas, colon, appendix, and kidneys, with numerous parasites accompanied by lymphocytes, plasma cells, macrophages, and numerous eosinophils. The posterior choroid of the right eye had a focal eosinophil-rich inflammatory infiltrate with a cross-section of a possible degenerating larva5 and a coiled, incompletely sectioned S stercoralis filariform larva in a medium-caliber choroidal artery . The posteronasal left choroid had a focal eosinophil-rich inflammatory infiltrate, but no larvae were identified. <|vision_start|>JAMA O 2024\\figure\\Observation011（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation011（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Strongyloides stercoralis Choroiditis"
+      }
+    ]
+  },
+  {
+    "id": "identity_105",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The patient is an 82-year-old male with a longstanding history of hereditary chorioretinopathy and pseudophakia for 6 years, who initially presented with a visual acuity with correction of 20/150 OD and 20/60 −2 OS. There was no cell in the anterior or posterior segment. Optical coherence tomography (OCT) showed cystoid macular edema (CME) . Fluorescein angiography demonstrated retinal vascular leakage in the macula with fluorescein accumulation in a petaloid pattern surrounding the fovea There was some consideration that the CME was associated with ellipsoid-zone or retinal pigment epithelial disruption associated with his hereditary chorioretinopathy, but there was no evidence of ellipsoid-zone–retinal pigment epithelial disruption . Medical history included type 1 diabetes, congestive heart failure, hypertension, and HIV infection. Medications included darunavir, ritonavir, furosemide, insulin, and apixaban. There was no change in CME after 3 months of topical ketorolac, 0.5%, dministered 6 times daily and topical prednisolone acetate, 1%, administered 4 times daily. He then received STK, 20 mg, in each eye, which resulted in improvement in visual acuity to 20/40 OD and 20/40 OS and reduced OCT CME thickness. Within 2 months of starting STK, the patient started having progressively worsening exercise tolerance, dyspnea on exertion, lower extremity weakness, increased fat in his face and abdomen, easy bruising, muscle wasting, and confusion. He continued to receive STK, 20 mg, in each eye every 3 months, for a total of 3 doses in each eye. One month after the third dose of STK, the patient was seen in the emergency department for progression of all his symptoms including skin atrophy and admitted for further evaluation.\nCorticotropin level was low at 3.2 pg/mL (normal, 7-63 pg/mL; to convert to picomoles per liter, multiply by 0.22) and early morning cortisol level was low at 2.0 µg/dL (normal, 3.7-19.4 µg/dL; to convert to nanomoles per liter, multiply by 27.588). Magnetic resonance imaging of the pituitary gland, and computed tomography of the adrenal glands were unremarkable. Cosyntropin (Cortrosyn [Amphastar Pharma]) stimulation test was normal. The patient received dexamethasone, 1 mg, orally at 11 PM and serum dexamethasone at 8 AM the following day was 855 ng/dL (reference range, 140-295 ng/dL), indicating that glucocorticoid metabolism was substantially inhibited and supported the diagnosis of iatrogenic Cushing syndrome caused by high circulating glucocorticoid level, presumably from STK, despite the low serum corticotropin and cortisol levels. \n <|vision_start|>JAMA O 2024\\figure\\Observation012（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation012（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Sub-Tenon Triamcinolone and Anti-HIV Medication-Induced Cushing Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_106",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 8-year-old boy collapsed on a trampoline and could not be resuscitated. The boy was a dizygotic twin born at 36 weeks’ gestational age. Medical history included a chest wall nodule, pigmented ocular lesions, anxiety, mild hypospadias, and idiopathic toe-walking. Left conjunctival biopsy at age 7 years and left caruncular biopsy at age 8 years both showed hyperpigmentation without melanocytic atypia . Minor malar and perioral freckling was observed but not documented with photography; both the father and paternal relatives also had freckling of the face and mouth. There was no history of sudden unexpected death in childhood, sudden cardiac death, or any known genetic condition in relatives within 3 degrees of relation to the child.\nMultifocal left ventricular fibrous scars, coronary arterial “recanalized thrombi,” and borderline cardiomegaly (215 g, 89-190 g expected) were reported on the original forensic autopsy. Our secondary review identified embolic cardiac myxoma within the coronary arteries and left ventricular subendocardial replacement fibrosis consistent with healed infarcts likely originating from the aortic valve that had been harvested by an organ procurement team before autopsy.\nExome sequencing on the child-parent trio identified a paternally inherited pathogenic variant in PRKAR1A (c.682C>T, p.R228*), confirming a diagnosis of CNC. Cascade testing was unavailable in the paternal relatives.\n <|vision_start|>JAMA O 2024\\figure\\Observation013（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation013（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Sudden Death in a Child With Ocular Lesions"
+      }
+    ]
+  },
+  {
+    "id": "identity_107",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 13-year-old girl presented with exacerbation of symptoms including photophobia, itchy eyes, and pain in her right eye. Slitlamp examination revealed giant papillae on the upper tarsal conjunctiva and superficial punctate keratitis in the right eye . Her best-corrected visual acuity was 20/63 OD and 20/16 OS. She had previously been diagnosed with VKC associated with AD at 9 years old and for 4 years was treated with eye drops containing tacrolimus, cyclosporine, steroids, and antiallergic agents. Despite topical treatment with eye drops, the giant papillae on the tarsal conjunctiva continued to worsen and resolve seasonally. Corneal lesions such as a shield ulcer and superficial punctate keratitis in her right eye persisted for 3 months. AD was observed on her skin, including the face, and was treated with tacrolimus ointments, steroid ointments, and a moisturizer. As the patient’s AD was severe with persistent skin rash refractory to treatment with topical medications, oral upadacitinib (15 mg/d) was administered for AD. Scores for the Eczema Area and Severity Index and the Investigator’s Global Assessment before and 2 weeks after upadacitinib treatment improved from 28.0 to 1.2 and 3 to 2, respectively. The pain and itching in the right eye improved within a month after upadacitinib administration. Additionally, the giant papillae gradually flattened, and corneal lesions improved after upadacitinib administration. After 3 months of oral upadacitinib administration, the giant papillae and punctate epithelial keratitis resolved completely , and vision improved to 20/16 OD. After 11 months of treatment, upadacitinib dosage was increased to 30 mg/d owing to the exacerbation of AD. After more than 14 months of upadacitinib treatment, no recurrence of giant papillae or corneal damage was observed with topical treatment of only antiallergic eye drops , and visual acuity was maintained at 20/16 OD and 20/20 OS. <|vision_start|>JAMA O 2024\\figure\\Observation014（01）.png<|vision_end|><|vision_start|>JAMA O 2024\\figure\\Observation014（02）.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Treatment of Vernal Keratoconjunctivitis Using Upadacitinib"
+      }
+    ]
+  },
+  {
+    "id": "identity_108",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 29-year-old Korean female presented with visual field defect and photopsia in her right eye that occurred abruptly 5 days before her visit. On examination, her best-corrected visual acuity was 20/20 OU. Fundus examination of the right eye revealed a well- demarcated, yellowish-white, deep retinal annular band surrounding the optic disc. Visual field test showed an enlarged blind spot in her right eye. Autofluorescence imaging showed zonal hyperautofluorescence within a demarcated area, and optical coherence tomography showed disruption of the outer retina (Figure, A, inset arrows). Six weeks later, her symptoms improved, and the annular lesion boundaries disappeared. However, the outer retinal degeneration remained. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images001.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Acute Annular Outer Retinopathy in a Patient Aged 29 Years"
+      }
+    ]
+  },
+  {
+    "id": "identity_109",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 24-year-old woman presented with sudden visual loss in the right eye after a subconjunctival 5-fluorouracil injection to treat a fibrotic trabeculectomy bleb. A 0.2-mL dose of 5-fluorouracil (2.5 mg/mL) was delivered into the subconjunctival space via a 30-gauge needle. Vision decreased abruptly from 20/25 to counting fingers immediately after the injection. Slitlamp examination showed opacity of anterior lens capsule and irregular dilation of pupil. A red reflex picture to show the lens opacity was unavailable. The following day, all signs disappeared without treatment, with vision restored to 20/25. A similar case was reported in 2003, which initially was associated with substantial visual impairment but with spontaneous resolution1. The lens opacification was transient and therefore likely due to the precipitation of deposits2 rather than the result of the antimetabolite effect of 5-fluorouracil1. This complication should be considered when a physician injects subconjunctival 5-fluorouracil after glaucoma filtering surgery.\n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images002.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Acute Transient Cataract Associated With 5-Fluorouracil"
+      }
+    ]
+  },
+  {
+    "id": "identity_110",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A patient in their 70s with known bilateral age-related macular degeneration (AMD) but otherwise healthy was referred by their optician to rule out neovascular AMD. Their best-corrected visual acuity was 6/9 (20/32) OD and 6/24(20/80) OS. The intraocular pressure was 10 mm Hg in both eyes. Anterior segment examination showed mild nuclear cataracts with no inflammation. Dilated ophthalmoscopy and ophthalmic imaging with ultra-widefield retinaphotography(Figure,A)andspectral-domainopticalcoherencetomography (Figure, B and Video) revealed bilateral posterior vitreous detachment, patches of geographic atrophy, and the absence of neovascular AMD features. However, the left retina showed an epiretinal membrane (ERM)with traction on the retina associated with retinoschisis or cystoid abnormalities within the inner retina and an irregular contour to the fovea. The ERM had an unusual wavy presentation creating a roller coaster appearance with multiple loops attached to the inner retina. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images003.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "An Epiretinal Roller Coaster Effect"
+      }
+    ]
+  },
+  {
+    "id": "identity_111",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 11-year-old boy presented with direct blunt trauma to the left eye due to an airsoft gun injury. The initial examination revealed retinal hemorrhages and dense anterior chamber inflammation without globe rupture; his best- corrected vision was limited to counting fingers OS. After intense every-1-hour topical corticosteroid treatment with a taper, the inflammation resolved, revealing a large temporal iridodialysis with a nasally displaced iris, which is not a common finding in airsoft gun injuries or in patients with an intact lens capsule. Notably, a vitreous strand escaped through the iridodialysis, traversing superiorly across the pseudopupil, which is also not a common finding. A zonular dehiscence from 3 to 4 o’clock and a small anterior subcapsular cataract in the iridodialysis region were also detected. Despite these complications, the patient retained a visual acuity of 20/25 OS.\n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images004.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bifid Pupil Iridodialysis Secondary to Airsoft Gun Injury"
+      }
+    ]
+  },
+  {
+    "id": "identity_112",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 65-year-old female patient presented with painless masses over both eyelids for 8 years. These involved the medial third of the right and the lateral third of the left upper eyelid as well as both lower eyelids, causing mechanical ectropion bilaterally (Figure, A). The masses were soft and appeared cystic. The visual acuity was 6/12OU.Ocular examination results were normal. Bilateral eyelid excisional biopsy and lateral tarsal strips were performed, resulting in ectropion correction with cosmesis that appeared improved(Figure, B). Histopathological examination revealed eccrine hidrocystoma. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images005.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Eyelid Polyposis Due to Eccrine Hidrocystoma"
+      }
+    ]
+  },
+  {
+    "id": "identity_113",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 61-year-old man with a history of glioblastoma treated with surgical resection, radiation, and chemotherapy presented to the emergency department with left eye vision loss, complete ophthalmoplegia, and ptosis. Examination revealed no light perception OS, cranial nerve V1 hypoesthesia. The right eye was unremarkable. Computed tomography scan showed sinus opacification (Figure, A, inset) and a sinus biopsy was performed. Three days later, examination showed a branching structure floating in the anterior chamber. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images006.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Bilateral Rhino-Orbital-Cerebral Mucormycosis"
+      }
+    ]
+  },
+  {
+    "id": "identity_114",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A patient in their early 30s presented with decreased vision in the left eye (6/60) for 1 week and a relative afferent pupillary defect. Fundus examination revealed “box carring” of the retinal vessels, a cherry-red spot, retinal opacification, and a small island of normal retina temporal to the optic disc (Figure, A). An embolus was not visualized within the central retinal artery. \nFundus fluorescein angiography showed almost no retinal perfusion except for mild perfusion nasally, which spared a central island. The patient was a cigarette smoker and had hypertension. As the patient did not have a headache or temporal scalp tenderness and their erythrocyte sedimentation rate was within normal limits. Echocardiography (transthoracic) and computed tomography of the neck vessels yielded normal results.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images007.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Central Retinal Artery Occlusion With Cilioretinal Artery Sparing"
+      }
+    ]
+  },
+  {
+    "id": "identity_115",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A70-year-old male presented to the emergency department with acute onset of painless monocular vision loss of his right eye. Visual acuity on presentation was light perception. Fundus photographs taken in the emergency department demonstrated diffuse inner retinal whitening, a macular cherryred spot, segmental irregularities of the retinal arterioles (also known as boxcarring). He received intravenous tenecteplase, 0.25 mg/kg, 149 minutes after onset of persistent vision loss, with improvement in vision 15 minutes thereafter. Repeat fundus photographs taken 60 minutes after administration of tenecteplase demonstrated reperfusion of the retinal arteries . <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images008.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Central Retinal Artery Revascularization Promptly After Tenecteplase"
+      }
+    ]
+  },
+  {
+    "id": "identity_116",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 30-year-old male with corneal trauma induced by a metal foreign body presented with vision loss of 2 months in the right eye. Slitlamp examination showed the central cornea had a fullthickness injury combined with partial tissue defects, which were sutured tightly, but there was aqueous humor leakage from the wound, and the anterior chamber was shallow. Surgical exploration revealed a tissue defect 2 mm in diameter that was conical in shape; therefore, corneal plug keratoplasty (CPKP) was performed accordingly. \nThe wine cork–shaped corneal graft with an anterior surface larger than the posterior surface coincided with the conical tissue defects, and the inner side in the anterior chamber swelled and became stuck after absorption of aqueous humor, allowing it to act like a cork in a wine bottle. Two interrupted sutures were placed to prevent dislocation of the corneal graft.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images009.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Corneal Plug Keratoplasty for the Treatment of Small Corneal Perforation"
+      }
+    ]
+  },
+  {
+    "id": "identity_117",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A patient in their early 50s presented to the emergency department with 1 day of severe left eye pain and vision loss. The crystalline lens was found to be anteriorly dislocated, associated with acute pupillary block. Intraocular pressure was 70 mm Hg, and vision was 20/400 OS.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images010.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Cotton Swab Couching of Dislocated Crystalline Lens in Marfan Syndrome"
+      }
+    ]
+  },
+  {
+    "id": "identity_118",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 66-year-old patient presented for1 year of foggy vision and glare in the left eye with a visual acuity of 20/25. More than 10years prior, he had cataract surgery with placement of a 3-piece, silicone, Tecnis Z9002 (Johnson& Johnson Vision) 24.0-diopter (D) lens. Examination was notable for diffuse granular-appearing posterior lenticular vs capsular opacification and asteroid hyalosis. A laser capsulotomy was performed without resulting symptomatic improvement. Repeated examination showed persistent granular opacity and capsulotomy-related lens pitting.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images011.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Dystrophic Calcification in a 3-Piece Silicone Intraocular Lens"
+      }
+    ]
+  },
+  {
+    "id": "identity_119",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In the context of a routine clinic visit, a 14-year-old female patient was examined, exhibiting no overt symptoms. Her best- corrected visual acuity was 6/12 (approximate Snellen equivalent 20/40) OU. Slitlamp biomicroscopic photography in the right eye revealed minute, star-shaped, brown opacities on the central anterior lens capsule, as depicted in the Figure. The fellow eye was unremarkable.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images012.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Epicapsular Stars in an Asymptomatic Patient"
+      }
+    ]
+  },
+  {
+    "id": "identity_120",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 51-year-old male patient presented with a blurred shadow in his left nasal visualfieldfor4days. Fundus examination revealed a temporal retinal detachment without macular involvement. The patient underwent an uncomplicated 23-gauge pars plana vitrectomy, air-fluid exchange, endolaser, and sulfur hexafluoride gas tamponade. Immediate postoperative positioning in the prone position was advised, and the patient denied any supine positioning after surgery. On postoperative day 1, uncorrected visual acuity was hand motions OS, and the examination revealed a new-onset posterior subcapsular cataract, with a feathery pattern. On postoperative day 7, his corrected visual acuity improved to 20/50 OS, the cataract had resolved, the retina was flat, and the gas bubble had decreased to less than half size. One year after surgery, his lens remains clear, and his best-corrected visual acuity is 20/25 OS. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images013.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Evanescent Snowflake Cataract After Pars Plana Vitrectomy"
+      }
+    ]
+  },
+  {
+    "id": "identity_121",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 3-year-old female child was referred for a retinal lesion in the right eye. Her ocular history included amblyopia, myopia, and exotropia of the right eye. Snellen visual acuity was 20/60 with correction OU, and intraocular pressures were normal. Anterior segment examination was unremarkable, and fundus examination revealed a fibrotic hyperpigmented lesion extending superiorly from the optic disc in the right eye. Optical coherence tomography of the lesion disclosed retinal thickening with disorganization of the retinal layers. En face near-infrared imaging showed hyperreflective, filamentous, branching lines within the lesion, which on cross-section appeared as discrete collections of hyperreflective foci extending from the retinal pigment epithelium (RPE) into the outer retina consistent with hyperplasia of the RPE. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images014.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Filamentous RPE Hyperplasia in Combined Hamartoma of the Retina and RPE"
+      }
+    ]
+  },
+  {
+    "id": "identity_122",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 4-year-old girl. Scanning laser ophthalmoscopy showed dragged discs in both eyes. Visual acuity was 1.40 logMAR (Snellen equivalent, 20/500) OS with −7.50-diopter correction. Fluorescein angiography of the left eye showed a peripheral avascular area and peripheral neovascularization temporally. Two retinal veins were floating without any retinal tissue attached to them in the vitreous cavity at the supratemporal and infratemporal vascular arcades . <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images015.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Fluorescein Angiography of Floating Retinal Veins"
+      }
+    ]
+  },
+  {
+    "id": "identity_123",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An apparently normal young male with visual acuity 20/20 OU (spherical equivalent, −2.50 diopters in both eyes) presented for a routine evaluation. The patient was noted to have blunted fovealike depressions (1 in the right eye and 2 in left eye) temporal to the normal foveal depression in both eyes. On swept-source optical coherence tomography (OCT), these areas showed thinning but not complete absence of the inner retinal layers. On OCT angiography, avascularity similar to the normal fovea was seen. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images016.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Foveal Pseudoduplication in a Young Male Patient"
+      }
+    ]
+  },
+  {
+    "id": "identity_124",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 29-year-old male patient experienced a 2-week fluctuating vision loss and eye strain in his right eye, with best-corrected visual acuity (BCVA) of logMAR 0.2 (20/32). The axial length of his right eye was 26.43 mm. Fundus examination showed features suggestive of an inferotemporal rhegmatogenous retinal detachment. Scanning laser ophthalmoscopy revealed an inferotemporal retinal detachment with a large retinal cystoid abnormality at the 7 o’clock position, without any detectable retinal holes or subfoveal fluid. Ultra-widefield swept- source optical coherence tomography (BM-400K BMizar [TowardPi Medical Technology]) showed the cavity of the retinal cystoid abnormality and the retinal detachment, without any detectable retinal holes. After 1 week of rest, BCVA improved to logMAR 0 (20/20).  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images017.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Large Retinal Cystoid Abnormality on Ultra-Widefield Swept-Source OCT"
+      }
+    ]
+  },
+  {
+    "id": "identity_125",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 62-year-old patient with a remote history of laser in situ keratomileusis (LASIK) awoke with cloudy vision, tearing, photophobia, and sharp pain in the left eye. She reported requiring a rigid gas permeable contact for 11 years due to postrefractive ectasia. Slitlamp examination was consistent with acute hydrops. Central pachymetry measured over 1400 μm (fellow eye, 588 μm). Optical coherence tomography identified fluid channels throughout the stroma and an unstable LASIK flap resting on fluid in the flap interface. She was treated con servatively with topical moxifloxacin, prednisolone, and timolol, and the edema resolved by 11 weeks, leaving a dense scar. Six weeks later, she developed redness, pain, and photophobia and was found to have a small, branching posterior stromal infiltrate. Penetrating keratoplasty was performed, with pathology identifying Aspergillus at 80% stromal depth. The postoperative course was uncomplicated, and final visual acuity was correctable to 20/15. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images018.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Laser in Situ Keratomileusis Flap Free-Floating on Interface Edema in Acute Corneal Hydrops"
+      }
+    ]
+  },
+  {
+    "id": "identity_126",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 50-day-old boy was referred to the physician due to a white pupil in the left eye. Preoperative ocular B-ultrasonography showed a thickened lens with no obvious persistent primary hyaloid in the vitreous. There was no distinct capsule, and a lensectomy was performed followed by anterior vitrectomy. A semitransparent band was detected at the back of the lens and cut off during the operation. No other ocular or systemic abnormality was detected. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images019.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Leukocoria Due to Persistent Hyperplastic Primary Vitreous"
+      }
+    ]
+  },
+  {
+    "id": "identity_127",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The fundus photograph of an asymptomatic 55-year-old woman showed unilateral benign lobular inner nuclear layer proliferations (BLIPs) at the posterior pole and multifocal congenital hypertrophy of the retinal pigment epithelium that extended into the periphery. The best-corrected visual acuity was logMAR −0.06. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images020.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Long-Term Stability of Benign Lobular Inner Nuclear Layer Proliferations"
+      }
+    ]
+  },
+  {
+    "id": "identity_128",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An urgent ophthalmology evaluation was requested for a 7-hour- old-infant who was born via cesarean delivery with the a luxated right eye. On examination, the right eye was luxated with the upper and lower eyelid margins retracted behind the globe. There was severe corneal exposure, miotic pupil, and conjunctival congestion. At the bedside, using 1 delicate toothless forceps, the upper eyelid was repositioned, allowing the globe to return to its normal position. Subsequent computed tomography scan of the orbit and ocular fundus examination were normal.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images021.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Luxated Globe at Birth-A Vision-Threatening Emergency"
+      }
+    ]
+  },
+  {
+    "id": "identity_129",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 2-week-old newborn was referred to a pediatric ophthalmology department for divergent strabismus. The infant had a superior cleft lip, hypertelorism, and a morning glory disc anomaly in the left eye. Family history and prenatal karyotype test results were unremarkable. A magnetic resonance imaging scan of the brain revealed a funnel-shaped optic disc in the left eye with ipsilateral prechiasmatic optic nerve thickening and a skull base defect with sphenoethmoidal encephalocele and ectopia of the gland. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images022.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Morning Glory Syndrome in a Newborn Aged 2 Weeks"
+      }
+    ]
+  },
+  {
+    "id": "identity_130",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A healthy 61-year-old female patient presented for evaluation of a medial canthal pigmented lesion that had been growing larger for the past 2 years. She denied itching, bleeding, or pain. A dermatologist had noted brown and red papules on her chest thought to be seborrheic keratoses, benign nevi, and cherry angiomas. Examination revealed a flat 3 × 3-mm hyperpigmented lesion with irregular margins. Histopathology from a 2-mm punch biopsy demonstrated atypical keratinocytes spanning the entire thickness of the epidermis without invasion of the dermis. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images023.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Pigmented Squamous Cell Carcinoma In Situ of the Eyelid"
+      }
+    ]
+  },
+  {
+    "id": "identity_131",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 24-year-old male since birth presented with low vision. The patient has experienced significant complications related to the disease, including liver failure and hearing loss. Best-corrected visual acuities were no light perception OD and 20/100 OS. Open-angle glaucoma was present bilaterally with severe superior and inferior visual defects in the left eye. The right eye had a dense intumescent cataract, limiting posterior segment examination in the right eye. In the left eye, vitreous opacities and multiple discrete hypopigmented spots sparing the fovea were noted. The hypopigmented spots correlated with preretinal hyperreflective bodies seen on optical coherence tomography. this patient had an ultra- widefield fundus appearance with accompanying ocular coherence tomography scan showing more extensive deposits. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images024.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Posterior Segment Changes in Gaucher Disease"
+      }
+    ]
+  },
+  {
+    "id": "identity_132",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 64-year-old male presented for evaluation of episodes of monocular vision loss in his right eye lasting 20 seconds. He had undergone biological aortic valve implant surgery recently and took rivaroxaban, 20 mg, daily. The patient reported experiencing a new episode of inferior altitudinal visual field defect approximately 10 seconds before undergoing macula- centered imaging, which revealed a 550-μm-long whitish embolus in the superior temporal arteriole, with a pale appearance of the retina distal to the embolus, presumably from inner retinal ischemia. A disc-centered image, 1 minute later, revealed distal migration of the embolus. The embolus no longer was apparent 30 minutes after the initial image, but the pale retinal appearance persisted. Although it is unknown if the inner retinal edema was due to the embolus visualized or previous emboli that no longer were apparent, the case shows how quickly an embolus can move distally. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images025.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Real-Time Visualization of a Transient Retinal Embolus"
+      }
+    ]
+  },
+  {
+    "id": "identity_133",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 6-month-old infant underwent ophthalmic examination. Anterior segment examination showed corneal crystals in both eyes. Dilated fundus examination revealed intraretinal refractile crystals in both eyes. Systemic investigations revealed hyperoxalosis (29.5 μmol/L; reference range: <1.8 μmol/L; to convert to milligrams per milliliter, divide by 11.107) and hyperoxaluria (0.33mg/mgcreatinine;referencerange:0.04-0.11mg/mg creatinine). Primary hyperoxalosis was considered, and hepatic biopsy was performed. The results were inconsistent with primary hyperoxaluria type 1 or type 2 and showed normal activity of alanine: glyoxylate aminotransferase and glyoxylate reductase, respectively. \n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images026.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Resolution of Crystalline Retinopathy After Kidney Transplant for Hyperoxaluria"
+      }
+    ]
+  },
+  {
+    "id": "identity_134",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "On performing a preoperative examination of an 18-year-old male for corneal refractive surgery, white retinal annular rings were found in the fundus bilaterally. The corrected visual acuity was 20/20 OU. Fundus photography showed white, tree ring–like findings in the retinas of both eyes, with peripheral retinal whitening. No other retinopathy was present. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images027.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinal Annular Ring Lines of White Without Pressure"
+      }
+    ]
+  },
+  {
+    "id": "identity_135",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "An 84-year-oldman underwent vitreoretinal surgery for an epiretinal membrane (ERM). His decimal best-corrected visual acuity was 0.7 (20/32) OD. During surgery, both the ERM and internal limiting membrane (ILM) were peeled in 1 continuous piece. The firmness of the ERM was judged normal with no engagement sites. \nOne day after the surgery, a white lesion appeared in the peeled area. This lesion was hyperreflective across all layers in the optical coherence tomographic images, with normal retinal circulation on fluorescein angiography, and the patient developed degeneration of the inner and outer retinal layers. The white lesion gradually blended into the surrounding normal tissue, but the border remained throughout the follow-up period. The postoperative best-corrected visual acuity improved to 0.9 (20/25) OD, although he reported a circular visual field defect. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images028.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinopathy After Epiretinal Membrane Peeling"
+      }
+    ]
+  },
+  {
+    "id": "identity_136",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 41-year-old male patient presented with a paracentral scotoma in the right eye, persistent after onset of an erythematous, blistering rash involving the hands, feet, and mouth 4 days prior. No other ocular or systemic symptoms were reported. Uncorrected visual acuity was 20/20 OU. Fundus photography revealed scattered intraretinal hemorrhages within a placoid lesion in the superior macula without serous detachment . Coxsackievirus B2 antibody titers returned positive. One week after presentation, the patient was diagnosed with orchitis by testicular ultrasonography.  <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images029.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Retinopathy Associated With Coxsackie B Virus Infection"
+      }
+    ]
+  },
+  {
+    "id": "identity_137",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 15-year-old boy was referred for keratic precipitates (KPs) in his right eye, appearing a day after undergoing pars plana lensectomy and vitrectomy with intravitreal vancomycin and ceftazidime for posttraumatic endophthalmitis. His best-corrected visual acuity (BCVA) was counting fingers at 1 m OD. Slitlamp evaluation showed KPs arranged in an unusual serpiginous pattern. There were 2+ cells in the anterior chamber,1 and corneal sensations were intact. His aqueous tap was sterile, and the patient was advised to take topical corticosteroids every hour. The KPs resolved within 2 weeks, and the BCVA improved to 6/9 OD with aphakic correction.\n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images030.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Serpiginous Endothelial Exudates in a 15-Year-Old Boy"
+      }
+    ]
+  },
+  {
+    "id": "identity_138",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 10-month-old girl presented for a fluorescein angiography ophthalmologic examination. Intravenous fluorescein administration causes immediate, temporary, mild-yellow skin discoloration. The child’s care team noted more vibrant yellow skin coloration than expected on viewing the girl in the postanesthesia care unit. On investigation, the child had inadvertently received the entire fluorescein syringe (33.9 mg/kg, 300 mg), not the intended 7.7 mg/kg. She had diffusely neon-yellow skin with scleral icterus; no behavioral changes or vomiting were noted.\nTo our knowledge, there are no published cases of dosing errors involving intravenous fluorescein administration. Adverse events at therapeutic dosing are usually mild, although rare cases of anaphylaxis, myocardial infarction, seizures, or death are reported. Ultimately, laboratory values showed no abnormalities, and her skin discoloration had nearly resolved after 8 hours. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images031.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Skin Discoloration After Iatrogenic Fluorescein Dosing Error"
+      }
+    ]
+  },
+  {
+    "id": "identity_139",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 54-year-old male patient presented for evaluation of a lamellar macular hole in his left eye. He had a full-thickness macular hole in his right eye that was operated on, 2 kidney transplants, and hearing loss from the age of 21 years. He denied a family history of ophthalmologic disorders, kidney disease, or hearing loss. His visual acuity was 20/40 OS. Fundus examination in the left eye showed temporal disc pallor and an abnormal macular reflex with superficial yellow retinal dots. Optical coherence tomography (OCT) revealed a lamellar macular hole in the left eye with a staircase appearance. The presence of kidney disease, hearing loss, and dot maculopathy with a staircase appearance on OCT. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images032.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Staircase Lamellar Macular Hole in a Male Patient Aged 54 Years"
+      }
+    ]
+  },
+  {
+    "id": "identity_140",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 77-year-old female presented with discomfort of her left eye. The patient had a retinal detachment in the left eye 30 years ago and now has no light perception vision OS. Anterior segment photography performed at the slitlamp revealed an image that resembled stars above a desert. At the lower part of the anterior chamber (AC), there was grayish-white, immobile sediment that had an irregular surface. Above this sediment were sparkling, yellowish- white, dotlike opacities. They moved freely with ocular movement and would not settle or return to their original position after the movement stopped. B-scan ultrasonography revealed a highly echogenic oval area central to the vitreous cavity, along with diffuse, isolated foci that were medium to highly echogenic and moved similarly to the opacities. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images033.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Synchysis Scintillans After Long-Standing History of Retinal Detachment"
+      }
+    ]
+  },
+  {
+    "id": "identity_141",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 71-year-old healthy White male presented in 2010 with intermittent redness in the right eye nasally for 10 years. On examination, corrected visual acuity was 20/25 OU. Slitlamp examination revealed an elevated yellow-pink conjunctival lesion in the right eye nasally with intrinsic vascularity and hemorrhage and normal left eye. Conjunctival biopsy of the right eye revealed subconjunctival amyloidosis with equal staining of κ and λ light chains. Follow-up examinations showed slow disease worsening over 13 years with diffuse amyloid infiltration of the conjunctiva overhanging the cornea for 360° in both eyes. At last visit, the patient was asymptomatic, and corrected visual acuity was 20/50 OU. Yearly systemic monitoring for amyloidosis and serum protein electrophoresis has been negative. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images034.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Thirteen-Year Follow-Up of Conjunctival Amyloidosis"
+      }
+    ]
+  },
+  {
+    "id": "identity_142",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 12-year-old Chinese boy presented with distorted vision in his left eye for 3 years. At examination, his best-corrected visual acuity (BCVA) was 20/40 OD (refraction, −8.25D) and 20/200OS (refraction, −7.0 D) with bilateral high myopia. Anterior segment assessment was unremarkable, and1+ vitreous cells in both eyes were noted. Ultra-widefield imaging revealed bilateral, multiple, discrete, round, yellow-white, atrophic, punched-out spots and concentric chorioretinal streaks in the posterior pole, and a submacular choroidal neovascularization developed in the left eye.\n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images035.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Ultra-Widefield Imaging of Bilateral Streaky Multifocal Choroiditis in a 12-Year-Old Boy"
+      }
+    ]
+  },
+  {
+    "id": "identity_143",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A 41-year-old female presented to the retina service for evaluation of chronically decreased vision in the left eye. Visual acuity was 20/20 OD and 20/40 OS. Visual field testing was full in the right eye and demonstrated diffuse constriction in the left eye. Fundus examination showed unilateral diffuse (nonsectoral) bone spicules and an optic disc pit in the left eye. Ocular coherence tomography of the left optic nerve showed an optic disc pit. Fundus autofluorescence was normal in the right eye but the left eye demonstrated peripheral diffuse hypoautofluorescene with a central hyperautofluorsecent ring. <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images036.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Unilateral Diffuse Pigmentary Retinopathy Associated With Optic Disc Pit"
+      }
+    ]
+  },
+  {
+    "id": "identity_144",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "A young patient, diagnosed with HIV infection 5 months before presentation and taking highly active antiretroviral therapy (HAART), presented with a left eye lesion. At diagnosis, theCD4+countwas 69 cells/mm. Examination revealed a highly vascular, superonasal heterogeneous mass with associated hemorrhage. High-resolution optical coherence tomography showed a subepithelial, hyperreflective, hypercellular tissue. Thelesion was excised using the no-touch technique and cryotherapy. Histopathology revealed spindle-shaped cells positive for Human herpesvirus 8 stain. \n <|vision_start|>JAMA O 2024\\figure\\Ophthalmic_Images037.png<|vision_end|>"
+      },
+      {
+        "from": "assistant",
+        "value": "Vascular Conjunctival Lesion in a Patient With a Recent Diagnosis of HIV Infection"
+      }
+    ]
+  }
+]
